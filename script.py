@@ -1,4 +1,4 @@
-import json
+mport json
 import os
 import requests
 
@@ -23,7 +23,6 @@ def clean_html(text):
 
 def get_adresse(obj):
     """Extraction exacte de l'adresse imbriquée en Apidae V002."""
-    # En V002, l'adresse est TOUJOURS dans le sous-bloc 'localisation'
     localisation = obj.get("localisation", {})
     adresse_obj = localisation.get("adresse", {})
     
@@ -32,7 +31,6 @@ def get_adresse(obj):
         lignes += f", {adresse_obj.get('adresse2')}"
         
     code_postal = adresse_obj.get("codePostal", "")
-    # La commune est souvent un sous-objet ou directement un texte
     commune_data = adresse_obj.get("commune", "")
     commune = commune_data.get("nom", "") if isinstance(commune_data, dict) else commune_data
     
@@ -50,23 +48,22 @@ def extract_contacts(obj):
     return tel, email, web
 
 def extract_photo(obj):
-    """Extraction chirurgicale de l'URL de l'image en Apidae V002."""
+    """Extraction exacte selon la structure officielle traductionFichiers d'Apidae V002."""
     illustrations = obj.get("illustrations", [])
     if illustrations and len(illustrations) > 0:
-        first_illus = illustrations[0] # On prend la première image de la liste
+        first_illus = illustrations[0] # Première image d'illustration
         
-        # Structure officielle V002 : l'URL est dans le tableau 'traductionFichiers'
+        # Structure V002 : l'URL est dans la liste 'traductionFichiers'
         trad_fichiers = first_illus.get("traductionFichiers", [])
         if trad_fichiers and len(trad_fichiers) > 0:
             return trad_fichiers[0].get("url", "")
             
-        # Sécurités de secours si la fiche utilise une variante
+        # Sécurités alternatives si format de secours
         if "url" in first_illus:
             return first_illus.get("url", "")
         traduc = first_illus.get("traductionMetadonnees", {})
         if isinstance(traduc, dict):
             return traduc.get("url", "")
-            
     return ""
 
 def interroger_apidae(id_selection):
