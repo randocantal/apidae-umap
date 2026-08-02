@@ -1,4 +1,2665 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.447323,
+                    44.723727
+                ]
+            },
+            "properties": {
+                "nom": "Auberge La Normandie",
+                "description": "Vous pourrez vous détendre et apprécier pleinement les paysages de la Châtaigneraie au sein de cette auberge en plein nature, entourée de pommiers et située à 2 km du bourg de Junhac.",
+                "adresse": ", Cols 15120 Junhac",
+                "telephone": "06 22 94 87 72",
+                "email": "ferme.auberge.normandie@gmail.com",
+                "site_web": "http://www.daims.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/93/144/1806429.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.329987,
+                    44.691683
+                ]
+            },
+            "properties": {
+                "nom": "Auberge de Mourjou",
+                "description": "Située à Mourjou, l'Auberge de Mourjou possède une terrasse, un restaurant et un bar.",
+                "adresse": "16 rue du Pélou 15340 Mourjou",
+                "telephone": "04 71 48 25 47",
+                "email": "aubergedemourjou@kara-asatryan.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/10/192/28426250.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.289877,
+                    44.718868
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de séjour de Martory",
+                "description": "Appréciez votre séjour à la ferme bio !",
+                "adresse": ", 7 Martory 15600 Leynhac",
+                "telephone": "04 71 43 61 86",
+                "email": "info@ferme-de-martory.com",
+                "site_web": "http://www.ferme-de-martory.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/112/104/28403824.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.383272,
+                    44.690116
+                ]
+            },
+            "properties": {
+                "nom": "Auberge des Voyageurs",
+                "description": "5 chambres d'hôtes situées en Châtaigneraie Cantalienne dans un environnement calme.",
+                "adresse": "12 rue du Lavoir 15340 Cassaniouze",
+                "telephone": "06 78 31 38 21",
+                "email": "cedric.marcenac@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/53/21968283.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.710619,
+                    45.15203
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Lavialle",
+                "description": "Chambre d'hôtes et gîte équestre.",
+                "adresse": ", Lavialle 15400 Le Claux",
+                "telephone": "04 71 78 96 67",
+                "email": "jeanlouisvernet@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/246/28571243.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.717799,
+                    45.226453
+                ]
+            },
+            "properties": {
+                "nom": "La Ferme d'Elisariane",
+                "description": "Située à 1000m d'altitude (bout de route dans la vallée de Cheylade-Puy-Mary) au coeur de la vallée de Cheylade, au pied du Puy Mary classé Grand Site de France.",
+                "adresse": "323 impasse Marie Galvain, Rastoul 15400 Saint-Hippolyte",
+                "telephone": "06 23 50 01 63",
+                "email": "elisariane@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/216/41605157.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.694508,
+                    45.24883
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Résidence Hauteclair",
+                "description": "A l'ombre du château d'Apchon sur la route du Puy-Mary, nous vous proposons un accueil chaleureux et des chambres de tout confort.",
+                "adresse": "10 rue du Bailli 15400 Apchon",
+                "telephone": "04 71 78 20 07",
+                "email": "adypinckers@hotmail.com",
+                "site_web": "http://www.hauteclair.be",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/86/2184756.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.692759,
+                    45.246874
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes L'oustalou",
+                "description": "Maison de style Auvergnat située dans le bourg d'Apchon au coeur du Parc Naturel Régional des Volcans d'Auvergne.",
+                "adresse": "26 Rue du champ de foire 15400 Apchon",
+                "telephone": "06 80 88 26 50",
+                "email": "dervin.beatrice@live.fr",
+                "site_web": "https://www.pourlesvacances.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/116/41841785.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.740361,
+                    45.237534
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes du Limon",
+                "description": "Chambre d'hôte dans cette grande maison de caractère très accueillante au coeur du Haut Cantal au pied du plateau du Limon.",
+                "adresse": ", Pierrebesse 15400 Cheylade",
+                "telephone": "04 71 78 58 13",
+                "email": "gitedulimon@free.fr",
+                "site_web": "http://gitedulimon.free.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/75/2182013.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.633199,
+                    45.240389
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes Ferme d'Espinasse",
+                "description": "Ferme traditionnelle de style auvergnat située sur les plateaux d'estives du Cantal. Chambre double pour 2 personnes ou famille avec salle d'eau et WC.",
+                "adresse": ", Espinasse 15400 Collandres",
+                "telephone": "04 71 67 98 36",
+                "email": "regine.roche-mercier@educagri.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/75/19942195.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.425897,
+                    45.076555
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de Lamourio",
+                "description": "Au cœur d'une exploitation agricole, élevage race salers, 3 chambres aménagées et spacieuses avec salle d'eau et WC privatifs, situées dans un bâtiment indépendant, face à la maison du propriétaire. Style Auvergnat pierres et poutres apparentes.",
+                "adresse": "13 lamourio 15310 Saint-Cernin",
+                "telephone": "04 71 47 67 37",
+                "email": "paul.fererol15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/162/41394896.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.437841,
+                    45.204927
+                ]
+            },
+            "properties": {
+                "nom": "Les Sorbiers",
+                "description": "Les Sorbiers vous accueillent dans une ancienne remise typiquement auvergnate, entièrement rénovée conservant l'architecture locale.",
+                "adresse": "14 -16 rue du petit chemin 15380 Anglards-de-Salers",
+                "telephone": "04 71 40 02 87",
+                "email": "geraldine.ribes@hotmail.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/158/8363698.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.453385,
+                    45.171725
+                ]
+            },
+            "properties": {
+                "nom": "La Chambre de Roche",
+                "description": "Chambre d'hôtes située au cœur d'une exploitation agricole à 5km de Salers. A l'écart des routes et des habitations, notre chambre vous offre calme et tranquillité pour 2 à 4 personnes.",
+                "adresse": "Lieu Dit, Roche Bas 15140 Saint-Bonnet-de-Salers",
+                "telephone": "04 71 67 93 83",
+                "email": "contact@lachambrederoche.com",
+                "site_web": "http://www.lachambrederoche.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/239/26275621.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.470636,
+                    45.132179
+                ]
+            },
+            "properties": {
+                "nom": "Domaine de la Chaux de Revel Chambre d'hôtes",
+                "description": "Aux portes de Salers dans un domaine de 7ha ancienne ferme auvergnate entièrement restaurée - Vue panoramique sur la vallée de la Maronne - Piscine chauffée (fin mai à mi septembre) à 29&#176;C. 3 chambres à thème.",
+                "adresse": "La Chaux de Revel 15140 Saint-Martin-Valmeroux",
+                "telephone": "04 71 40 68 10",
+                "email": "pascal.montaz@gmail.com",
+                "site_web": "http://www.domainedelachauxderevel.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/221/41/5712349.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.283665,
+                    45.154706
+                ]
+            },
+            "properties": {
+                "nom": "La Fournio",
+                "description": "Maison typique de Xaintrie entre Dordogne et Monts du Cantal proche de la cité médiévale de Salers.",
+                "adresse": "18, Escladines 15700 Chaussenac",
+                "telephone": "04 71 69 02 68",
+                "email": "albert.charles@wanadoo.fr",
+                "site_web": "http://www.lafournio.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/7/43/35793671.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.495677,
+                    45.138907
+                ]
+            },
+            "properties": {
+                "nom": "Les Sagranières",
+                "description": "Chambres dans maison de caractère au cœur de la cité médiévale proche des commerces et des restaurants. Possibilité organisation de séjour pour groupe avec circuits, itinéraires, restaurants.",
+                "adresse": "44, rue Notre-Dame 15140 Salers",
+                "telephone": "04 71 40 70 50",
+                "email": "info@le-sagranier.com",
+                "site_web": "http://www.le-sagranier.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/206/5754475.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.28686,
+                    45.087728
+                ]
+            },
+            "properties": {
+                "nom": "La Maison de Chablat",
+                "description": "La Maison de Chablat se trouve dans un lieu calme, entouré de nature. Dans le jardin, au bord de la piscine, vous pouvez admirer les Monts du Cantal à l'horizon. La maison comprend 4 chambres.",
+                "adresse": "1216, route du gouffre de la monnaie, Chablat 15140 Saint-Martin-Cantalès",
+                "telephone": "04 71 44 60 50",
+                "email": "maisondechablat@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/23/2103126.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.478338,
+                    45.174969
+                ]
+            },
+            "properties": {
+                "nom": "Guidon & Fourchette",
+                "description": "Faites escale chez « GUIDON & FOURCHETTE ». \r\nDans un corps de ferme de 1776, 2CH (2 lits de 140) et 1 dortoir (6 personnes). Une table d’hôte, un espace pour entretenir vos deux roues.",
+                "adresse": "17 Navaste 15140 Saint-Bonnet-de-Salers",
+                "telephone": "04 71 68 65 79",
+                "email": "guidon-fourchette@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/128/89/27482496.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.503108,
+                    45.11364
+                ]
+            },
+            "properties": {
+                "nom": "Lou Catou",
+                "description": "A 10 minutes de la cité médiévale de Salers, Au cœur d'un village calme et verdoyant, 2 chambres d'hôtes confortables, vous accueillent.",
+                "adresse": "136 rue de l'Aspre 15140 Fontanges",
+                "telephone": "04 71 40 38 93",
+                "email": "catherine_frederic@orange.fr",
+                "site_web": "http://catherine-frederic.wixsite.com/monsite",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/130/164/35890306.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.591064,
+                    45.155116
+                ]
+            },
+            "properties": {
+                "nom": "Auberge du Col de Néronne",
+                "description": "Situé entre Salers et Puy Mary, vue panoramique au sein du parc régional des volcans d'Auvergne. 5 chambres dont 4 avec vue sur le Puy Violent",
+                "adresse": "2 col de Néronne 15140 Saint-Paul-de-Salers",
+                "telephone": "04 43 05 18 31",
+                "email": "auberge.coldeneronne@gmail.com",
+                "site_web": "https://www.auberge-col-neronne.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/47/41365280.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.575727,
+                    45.382626
+                ]
+            },
+            "properties": {
+                "nom": "Chambres et table d'hôtes Croque Lunes",
+                "description": "Croque Lunes est une ancienne ferme que nous avons rénovée en 2016 ; elle est située dans un cadre champêtre et ressourçant en bordure de hameau.",
+                "adresse": "6 chemin du Charlissou, Hameau de Sarran 15270 Champs-sur-Tarentaine-Marchal",
+                "telephone": "06 86 89 24 19",
+                "email": "croquelunes@free.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/161/30318904.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.557853,
+                    45.440726
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Artense Hôtes",
+                "description": "Entre les Monts du Cantal, le massif du Sancy et aux portes du Cézallier, Patrice vous accueille dans ses quatre chambres d’hôtes spacieuses. Les chambres sont situées dans une maison mitoyenne à son habitation, au cœur d’un petit hameau paisible.",
+                "adresse": "282 route d'Auzaric, Le Fraisse 15270 Lanobre",
+                "telephone": "06 40 25 34 59",
+                "email": "artense.hotes@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/13/30412063.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.464175,
+                    45.302854
+                ]
+            },
+            "properties": {
+                "nom": "Chambres et table d'hôtes Chez Marraine",
+                "description": "Petite route sinueuse et bucolique vous mènera chez Marraine. \r\nUne maison auvergnate de caractère (1872) accueille ses hôtes qui aiment la nature.  Ici c’est la campagne, vous serez entouré de prés, de vaches avec une vue imprenable.",
+                "adresse": "4 route d'Ardit 15240 Sauvat",
+                "telephone": "06 18 08 60 27",
+                "email": "chezmarraine@laposte.net",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/146/169/30321042.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.50979,
+                    45.348793
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Champassis",
+                "description": "Maison indépendante dans petit village à 9km du lac de Lastioulles et du barrage de Bort-les-Orgues. Salle à manger commune avec kitchenette équipée, 4 chambres à disposition, pas de table d'hôtes. Wifi sur demande.",
+                "adresse": "2 Champassis 15240 Vebret",
+                "telephone": "04 71 40 23 57",
+                "email": "annie.jouve0844@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/20/30413946.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.412639,
+                    45.324996
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Le Relais des Capucines",
+                "description": "Nos chambres sont situées dans une demeure de la fin du XIXème siècle agrémentée d'un parc paysagé d'un hectare. Chaque chambre est équipée d'une salle d'eau et de WC privatifs.",
+                "adresse": "78 avenue de la Libération, Largnac 15210 Ydes",
+                "telephone": "06 49 38 46 36",
+                "email": "lerelaisdescapucines@gmail.com",
+                "site_web": "http://lerelaisdescapucines-cantal.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/205/12/30411981.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.649508,
+                    44.958269
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes \"le Paradis Vert\"",
+                "description": "Chambres d'hôtes",
+                "adresse": ", Morèze 15800 Saint-Clément",
+                "telephone": "04 71 49 62 11",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.650044,
+                    44.873374
+                ]
+            },
+            "properties": {
+                "nom": "Domaine de Courbelimagne",
+                "description": "A Raulhac, locations occasionnelles de Chambres d'Hôtes (selon les préceptes des \"Chambres d'Hôtes chez l'habitant\").\r\n3 chambres ou suites, avec petits déjeuners. Dîners possibles uniquement sur réservation, dans un cadre environnemental de charme.\r\n",
+                "adresse": "Lieu-dit Courbelimagne 15800 Raulhac",
+                "telephone": "04 71 49 58 25",
+                "email": "jean-louis.welsch@wanadoo.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.667376,
+                    45.015461
+                ]
+            },
+            "properties": {
+                "nom": "La Maison de Jeanne",
+                "description": "Convivialité, détente, bien-être sont les mots qui conviennent pour « La Maison de Jeanne ». Au coeur du village, Chrystelle et Hugues vous accueillent dans une grande maison datant du début du XXe siècle baignée par la lumière.",
+                "adresse": "19 rue des Balcons 15800 Thiézac",
+                "telephone": "04 71 47 04 82",
+                "email": "maisonchautard@orange.fr",
+                "site_web": "https://maisondejeanne.net",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/224/38658243.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.694967,
+                    44.949903
+                ]
+            },
+            "properties": {
+                "nom": "La Petite Escale du Pouget",
+                "description": "La petite escale du Pouget  est idéale pour se ressourcer  avec son entrée indépendante qui mène directement aux chambres en passant par un petit salon et la salle du petit déjeuner en usage privatif.",
+                "adresse": "5 Le Pouget 15800 Pailherols",
+                "telephone": "04 71 62 79 10",
+                "email": "petiteescalepouget@orange.fr",
+                "site_web": "http://www.petiteescalepouget.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/246/36369960.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.611979,
+                    44.909897
+                ]
+            },
+            "properties": {
+                "nom": "La Calsade",
+                "description": "Demeure entièrement rénovée, située au cœur du Carladès, sur le plateau de Badailhac. Tranquillité, vue panoramique. 2 chambres doubles, 1 chambre avec 1 lit double et 1 lit simple (salle d'eau et wc privatifs).",
+                "adresse": "15800 Badailhac",
+                "telephone": "04 71 47 40 54",
+                "email": "jean.morziere@orange.fr",
+                "site_web": "http://www.la-calsade.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/212/2282727.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.630593,
+                    44.97681
+                ]
+            },
+            "properties": {
+                "nom": "Kinopanorama",
+                "description": "Chambre d'hôtes à Vic sur Cère.",
+                "adresse": "1 Rue de la Gare 15800 Vic-sur-Cère",
+                "telephone": "06 83 49 78 86",
+                "email": "bonnet.jane@orange.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.621296,
+                    44.977777
+                ]
+            },
+            "properties": {
+                "nom": "Le Terrondou",
+                "description": "Cette élégante demeure, bâtie dans les années 30, dans le style néoclassique régional, est située à 300m du centre médiéval de Vic sur Cère, à 15min d'Aurillac et à 15 min de la station du Lioran, au coeur du Parc des Volcans.",
+                "adresse": "2 avenue Emile Duclaux 15800 Vic-sur-Cère",
+                "telephone": "06 88 94 32 01",
+                "email": "terrondou.rosset@free.fr",
+                "site_web": "http://www.terrondou.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/117/12744011.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.694,
+                    44.982
+                ]
+            },
+            "properties": {
+                "nom": "La Roussière - Maison d'hôtes",
+                "description": "Entre pâturages d'estive, forêts verdoyantes ou coteaux enneigés, La Roussière est une maison d'hôtes unique, aménagée par Brigitte et Christian dans une ancienne ferme de montagne nichée à 1019 m d'altitude, à l'écart de toute voie de passage.",
+                "adresse": "La Roussière, 2 15800 Saint-Clément",
+                "telephone": "04 71 49 67 34",
+                "email": "info@laroussiere.fr",
+                "site_web": "http://www.laroussiere.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/26/36313681.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.635966,
+                    44.98094
+                ]
+            },
+            "properties": {
+                "nom": "Château Ol Puech",
+                "description": "Tombez sous le charme de cette imposante bâtisse centenaire et de son beau parc arboré, à 500m de la gare. à votre disposition 3 chambres confortables en harmonie avec l’esprit de la demeure.",
+                "adresse": "25 Avenue de la Promenade 15800 Vic-sur-Cère",
+                "telephone": "06 61 75 52 85",
+                "email": "info@chateauolpuech.fr",
+                "site_web": "http://www.chateauolpuech.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/189/28097867.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.455391,
+                    45.005333
+                ]
+            },
+            "properties": {
+                "nom": "Château de Sédaiges",
+                "description": "Superbe parc arboré de 6 ha avec ruisseau et étangs à 15 mn en voiture de la ville Préfecture : Aurillac et est au pied du Parc Régional des Volcans",
+                "adresse": "3 Place du Marronier 15250 Marmanhac",
+                "telephone": "04 71 47 30 01",
+                "email": "",
+                "site_web": "http://www.chateausedaiges.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/112/12873839.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.490768,
+                    44.966446
+                ]
+            },
+            "properties": {
+                "nom": "\"La Pradelle\"",
+                "description": "A 5 min d’Aurillac, sur la route du Puy Mary, Bernard et Mireille vous accueillent dans leur maison de maître du 19ème siècle, entouré d’un enclos arboré. Labellisé \"Accueil Vélo\".",
+                "adresse": "15130 Saint-Simon",
+                "telephone": "04 71 43 62 03",
+                "email": "m.massini@orange.fr",
+                "site_web": "http://www.lapradelle-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/112/12873906.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.433492,
+                    44.919971
+                ]
+            },
+            "properties": {
+                "nom": "Une Chambre en Ville",
+                "description": "Nous vous accueillons dans une maison des années 20, proche du centre-ville, à deux pas de la gare et de la salle de spectacle du Prisme.",
+                "adresse": "20 rue François Maynard 15000 Aurillac",
+                "telephone": "04 71 63 79 41",
+                "email": "rimygaillard@free.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/102/206/9358950.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.493992,
+                    45.008961
+                ]
+            },
+            "properties": {
+                "nom": "\"Chez Margaret\"",
+                "description": "Maison typiquement auvergnate de 1843 restaurée que je partage avec mes chats (personnes allergiques, s'abstenir!) , à proximité du Parc des Volcans, au pied des chemins de randonnées pédestres.\r\nAu cœur de la vallée des poètes, plein sud au calme.",
+                "adresse": "16,rue Marie Curie, Gimel 15250 Marmanhac",
+                "telephone": "04 71 43 76 80",
+                "email": "chezmargaret15@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/56/15808721.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.564878,
+                    45.038294
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'Hôtes de Lageneste",
+                "description": "Dans maison auvergnate. Calme, belle vue avec jardin très fleuri, grand potager.",
+                "adresse": "15590 Lascelle",
+                "telephone": "04 71 47 95 19  06 81 11 76 39",
+                "email": "",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/146/2134767.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.462614,
+                    44.936254
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Moissetie",
+                "description": "Venez séjourner dans un Château du XIIIème siècle, à 630 m d'altitude, avec un parc paysagé de 2 hectares à seulement 15 minutes à pied du centre-ville d’Aurillac",
+                "adresse": ", Chemin La Moissetie 15000 Aurillac",
+                "telephone": "06 07 16 24 38",
+                "email": "eric-rinaudo@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/112/12873822.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.435007,
+                    44.891848
+                ]
+            },
+            "properties": {
+                "nom": "\"Chez Mounette\"",
+                "description": "Chambre d'hôtes située à proximité immédiate d'Aurillac.",
+                "adresse": "20 Chemin du Bousquet 15130 Arpajon-sur-Cère",
+                "telephone": "04 71 63 73 10",
+                "email": "cantuel.monique@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/221/3530133.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.513938,
+                    44.995077
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de Broize",
+                "description": "Notre ferme se situe sur la route des Crêtes entre Aurillac et le Puy Mary au coeur des Monts du Cantal. Idéal pour la randonnée pédestre.",
+                "adresse": "15250 Marmanhac",
+                "telephone": "",
+                "email": "chambresbroize@gmail.com",
+                "site_web": "http://www.broize.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/140/112/12873868.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.449688,
+                    44.931571
+                ]
+            },
+            "properties": {
+                "nom": "L'ERMITAGE",
+                "description": "Au cœur de la ville historique, dispensaire des XVIème et XVIIIème siècle, donnant sur un parc.",
+                "adresse": "20 rue des Dames 15000 Aurillac",
+                "telephone": "04 71 62 05 99",
+                "email": "lermitage15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/140/5016799.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.442518,
+                    44.882345
+                ]
+            },
+            "properties": {
+                "nom": "Le Cambon",
+                "description": "Maison à la campagne, située à une dizaine de minutes d'Aurillac",
+                "adresse": ", Le Cambon 15130 Arpajon-sur-Cère",
+                "telephone": "06 36 67 65 49",
+                "email": "f.daoulas@gmail.com",
+                "site_web": "https://www.le-cambon.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/112/12873910.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.494668,
+                    44.930901
+                ]
+            },
+            "properties": {
+                "nom": "CHRISTIANE LAMIOT",
+                "description": "Au pied des Monts du Cantal, aux portes d'Aurillac, dans un paysage arboré, Christiane et Michel vous proposent 1 chambre d'hôtes.",
+                "adresse": "381 Impasse de la Granière, lieu dit LA GRANIERE 15130 Giou-de-Mamou",
+                "telephone": "06 43 05 05 15",
+                "email": "lagranierechristiane@orange.fr",
+                "site_web": "http://www.chambresdhotes-aurillac.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/236/147/2135020.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.513294,
+                    44.931266
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes  \"La Maison\"",
+                "description": "Située au cœur du Cantal près d'Aurillac et de ses montagnes, nous vous accueillerons dans une maison de maître datant de 1828 et restaurée.",
+                "adresse": ", Le Bourg 15130 Giou-de-Mamou",
+                "telephone": "04 71 64 51 55",
+                "email": "la-maison@sfr.fr",
+                "site_web": "http://www.la-maisongiou.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/112/12873811.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.658753,
+                    45.067352
+                ]
+            },
+            "properties": {
+                "nom": "\"Les 4 Saisons\"",
+                "description": "Maison 1900 située à Mandailles au coeur du Massif Cantalien (versant Sud du Puy Mary).",
+                "adresse": "5 rue de la remise, Larmandie 15590 Mandailles-Saint-Julien",
+                "telephone": "04 71 47 93 81",
+                "email": "vert.azur@orange.fr",
+                "site_web": "https://www.gite-vertazur.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/57/15808817.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.437752,
+                    44.941252
+                ]
+            },
+            "properties": {
+                "nom": "Chambres et Table d'Hôtes de Massigoux",
+                "description": "Chambres et Table d’hôtes de Massigoux : au calme, en pleine campagne à 4 min du centre-ville, dans une ancienne ferme rénovée.",
+                "adresse": ", Chemin de Massigoux 15000 Aurillac",
+                "telephone": "06 82 90 12 68",
+                "email": "castanier.laurence@gmail.com",
+                "site_web": "https://www.massigoux.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/97/30761467.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.902021,
+                    44.844216
+                ]
+            },
+            "properties": {
+                "nom": "Chez Denise - Chambres et table d'hôtes",
+                "description": "Depuis 26 ans, Denise vous accueille dans une maison de caractère située sur l’Aubrac, à 13km de Chaudes-Aigues, 20 km de Laguiole, à deux pas du plateau de l'Aubrac et de la vallée de la Truyère. Idéalement située pour visiter la région.",
+                "adresse": "Esclauzet 15110 Lieutadès",
+                "telephone": "06 12 28 14 89",
+                "email": "denise.gilibert-devors@orange.fr",
+                "site_web": "http://chambres-dhote-chez-denise.wifeo.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/51/216/22534195.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.248842,
+                    45.013065
+                ]
+            },
+            "properties": {
+                "nom": "L'Oustar de Tougnini  - Chambres d'hôtes",
+                "description": "Ghislaine et Luc vous souhaitent la bienvenue dans cette grange-étable de Margeride, entièrement rénovée.\r\n4 Chambres de 1 à 4 pers. dont une accessible aux personnes à mobilité réduite (fauteuils). Capacité 12 personnes.\r\nDouche et WC dans les chambres.",
+                "adresse": "Trailus 1 le Mût 15320 Ruynes-en-Margeride",
+                "telephone": "04 71 23 46 42",
+                "email": "lucbony15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/90/36592365.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90629,
+                    45.003499
+                ]
+            },
+            "properties": {
+                "nom": "La Frêneraie - Chambres d'hôtes",
+                "description": "Dans un petit village à 1160m d'altitude, au coeur du parc des volcans d'Auvergne et des pistes de ski et des chemins de randonnées, Jocelyne et Michel vous accueillent dans leur maison de caractère où règnent chaleur et convivialité.",
+                "adresse": "6 rue de Ribeyrol 15430 Paulhac",
+                "telephone": "04 71 73 09 38",
+                "email": "contact@chambre-hote-lafreneraie.com",
+                "site_web": "http://www.chambre-hote-lafreneraie.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/118/100/3630198.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.822148,
+                    45.036548
+                ]
+            },
+            "properties": {
+                "nom": "Auberge de l'Epie - Chambres d'Hôtes et auberge",
+                "description": "Maryline et Pierrot vous accueillent dans leur auberge de 1806 entièrement rénovée au charme atypique avec vue sur la montagne, idéale pour des vacances au calme.",
+                "adresse": "La Sagnette 15430 Paulhac",
+                "telephone": "04 71 20 65 22",
+                "email": "maryline.legrand75@orange.fr",
+                "site_web": "https://www.aubergedelepie.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/67/68/37176387.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.102093,
+                    45.135131
+                ]
+            },
+            "properties": {
+                "nom": "Auberge de l'Astrassadou - Chambres d'Hôtes et auberge",
+                "description": "Bienvenue à L’Astrassadou, une auberge pas tout à fait comme les autres…\r\nSituée à 1 050 mètres d’altitude, dans le petit village de Rézentières, notre maison vous ouvre ses portes pour une pause nature au cœur du Cantal.",
+                "adresse": "6, rue de la Laiterie 15170 Rézentières",
+                "telephone": "04 71 20 10 18",
+                "email": "auberge@astrassadou.fr",
+                "site_web": "http://www.astrassadou.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/120/39155929.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.782225,
+                    45.010346
+                ]
+            },
+            "properties": {
+                "nom": "ARTIS Louis et Elise - \"Les Cascades\" - Chambres et table d'hôte",
+                "description": "Dans la magnifique vallée de Brezons au pied du Plomb du Cantal dans un confort et un calme parfaits, 5 chambres d'hôtes ont été aménagées dans une ancienne auberge.",
+                "adresse": "Lustrande, 10 route des estives 15230 Brezons",
+                "telephone": "04 71 73 41 51",
+                "email": "loulou.artis@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/113/8876516.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.093711,
+                    45.033011
+                ]
+            },
+            "properties": {
+                "nom": "La Maison d'Adélaïde - Chambres d'Hôtes",
+                "description": "La Maison d ’Adélaïde est idéalement située dans un ancien hôtel particulier du XIXème au coeur du centre historique de St-Flour, proche de la cathédrale St-Pierre et de la Halle aux bleds. Accueil randonneurs et cyclistes. Table d'hôtes sur réservation.",
+                "adresse": "12, rue de la Rollandie 15100 Saint-Flour",
+                "telephone": "04 71 73 96 50",
+                "email": "contact@maisonadelaide.com",
+                "site_web": "http://www.maisonadelaide.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/160/44/3615904.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005186,
+                    44.698667
+                ]
+            },
+            "properties": {
+                "nom": "La Fontaine de Grégoire - Chambres d'hôtes",
+                "description": "Cette bâtisse atypique du XVIIIe cache derrière ses murs de surprenantes chambres d’hôtes. Fred et Isabelle ont ici donné libre cours à leurs passions de collectionneurs, décorateurs, artistes et ont ainsi créé un univers.",
+                "adresse": "2 rue de la Croix de Grégoire 15110 Saint-Urcize",
+                "telephone": "04 71 23 20 69",
+                "email": "fontainedegregoire@gmail.com",
+                "site_web": "http://www.fontainedegregoire.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/173/8105426.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007936,
+                    44.839226
+                ]
+            },
+            "properties": {
+                "nom": "Chalmeton Agnès - Chambres d'hôtes",
+                "description": "A 3 km de Chaudes-Aigues. Dans une maison de caractère deux chambres\r\navec accès indépendant.",
+                "adresse": "La Fouilhouse 15110 Chaudes-Aigues",
+                "telephone": "04 71 23 58 15",
+                "email": "agneschalmeton15@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/188/2145391.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.087115,
+                    44.900815
+                ]
+            },
+            "properties": {
+                "nom": "Guilbot Marinette - Chambres et table d'hôtes",
+                "description": "Pour un séjour de charme entre Aubrac et Margeride, dans un cadre de verdure et de calme, Marinette et Michel vous accueillent dans leur maison où règnent chaleur et convivialité.",
+                "adresse": "3 rue de la Fontaine 15110 Fridefont",
+                "telephone": "04 71 23 51 72",
+                "email": "michel.guilbot804@orange.fr",
+                "site_web": "http://www.ferme-guilbot.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/67/36652002.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.110375,
+                    44.912517
+                ]
+            },
+            "properties": {
+                "nom": "Chassang Céline - Chambres d'hôtes",
+                "description": "A 15 km de Chaudes-Aigues. 4 chambres surplombent le Cirque de Mallet, merveilleux site de pêcheurs et randonneurs.",
+                "adresse": "Le belvédère de Mallet 15110 Fridefont",
+                "telephone": "04 71 23 57 00",
+                "email": "chassangceline@outlook.fr",
+                "site_web": "http://www.belvederedemallet.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/188/2145494.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.004017,
+                    44.82205
+                ]
+            },
+            "properties": {
+                "nom": "La Maison de Gilbert - Chambres d'Hôtes",
+                "description": "La maison de Gilbert constitue l’étape pour se ressourcer et découvrir les splendides paysages du Cantal et de l’Aubrac.",
+                "adresse": "Lieu dit La Valette 15110 Chaudes-Aigues",
+                "telephone": "06 60 07 27 51",
+                "email": "rocherbeat@gmail.com",
+                "site_web": "http://lamaisondegilbert.strikingly.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/237/42003756.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.085272,
+                    44.901413
+                ]
+            },
+            "properties": {
+                "nom": "La Ferme des Deux Vallées - Chambres d'hôtes",
+                "description": "Pour les amateurs de vacances reposantes. Dans une maison de caractère, un accueil simple et généreux vous fera savourer calme, grands espaces et vous permettra d'organiser vos découvertes et randonnées avec documentation sur place.",
+                "adresse": "4 rue des Forgerons 15110 Fridefont",
+                "telephone": "06 07 88 19 04",
+                "email": "chassanyjosette@gmail.com",
+                "site_web": "http://www.deuxvallees.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/45/9383324.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.481623,
+                    45.160041
+                ]
+            },
+            "properties": {
+                "nom": "Le Moulin du Pont",
+                "description": "Jérôme vous recevra dans un ancien moulin situé à 950 mètres d’altitude, à deux kilomètres seulement de la cité médiévale de Salers. Cinq chambres tout confort dans une maison indépendante sur 1ha de parc très paisible.",
+                "adresse": "Le Pont de Tougouze 15140 Saint-Bonnet-de-Salers",
+                "telephone": "04 71 40 76 55",
+                "email": "lemoulindupont@yahoo.fr",
+                "site_web": "http://www.le-moulin-du-pont.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/77/8408403.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71343,
+                    45.045222
+                ]
+            },
+            "properties": {
+                "nom": "Les Sources",
+                "description": "Au pied du plomb du cantal et sur les traces de St Jacques de Compostelle, la maison se situe dans un environnement calme, entourée d'un parc de verdure.",
+                "adresse": "12 Route de la Gare 15800 Saint-Jacques-des-Blats",
+                "telephone": "04 71 47 05 33",
+                "email": "info@lessourcescantal.com",
+                "site_web": "http://www.lessourcescantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/97/179/38056801.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49988,
+                    45.36372
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Ferme de séjour",
+                "description": "Vous pourrez découvrir en pleine campagne et à la ferme, 5 chambres coquettes et spacieuses au décor soigné et différent entre chaque chambre, soit dans la charmante maison de caractère des propriétaires ou dans une annexe restaurée en pierre.",
+                "adresse": "4 Verchalles Soutro 15240 Vebret",
+                "telephone": "04 71 40 21 58",
+                "email": "guy-galvaing@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/11/30411699.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.565589,
+                    45.21422
+                ]
+            },
+            "properties": {
+                "nom": "Domaine de Veirières",
+                "description": "Isolées dans les estives de la planèze de Trizac, à plus de 1100 mètres d’altitude, les chambres sont aménagées dans deux burons surplombant le lac avec une vue imprenable qui fera le bonheur des passionnés de nature grandiose et préservée...",
+                "adresse": "Domaine de Veirieres, Veirières 15380 Saint-Vincent-de-Salers",
+                "telephone": "04 71 78 66 29",
+                "email": "leymonie.roland@wanadoo.fr",
+                "site_web": "http://www.veirieres-evasion.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/194/19/35656642.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.867971,
+                    45.112543
+                ]
+            },
+            "properties": {
+                "nom": "L'Escale de Camille",
+                "description": "Monique vous accueille dans une maison du XVIIe entièrement rénovée au cœur de la cité médiévale. 4 chambres grand confort (literie latex naturel) mêlant charme et authenticité confortablement équipées, dont 1 chambre avec mezzanine avec 2 petits lits.",
+                "adresse": "20 rue de Lavergne 15300 Murat",
+                "telephone": "06 10 34 15 96",
+                "email": "lescaledecamille@gmail.com",
+                "site_web": "http://www.lescaledecamille.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/66/3818101.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.789513,
+                    45.159415
+                ]
+            },
+            "properties": {
+                "nom": "Monts et Délices",
+                "description": "Cinq chambres spacieuses de grand confort (de 2 à 5 personnes), literie latex naturel, décorées avec soin, au pied du Puy Mary. Cécile & Jacques seront aux petits soins  et feront leur maximum pour que votre séjour reste inoubliable !",
+                "adresse": "6 route de Nozières 15300 Dienne",
+                "telephone": "06 13 70 73 51",
+                "email": "montsetdelices@live.fr",
+                "site_web": "http://www.montsetdelices.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/231/35514235.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.919038,
+                    45.113404
+                ]
+            },
+            "properties": {
+                "nom": "La Gaspardine",
+                "description": "Quatre chambres de charme dans une ancienne ferme de caractère de 1844. Terrasse ensoleillée, calme avec vue sur la campagne. Une table d'hôtes est proposée tous les soirs, sauf le dimanche.",
+                "adresse": "20 route du vieux four, Gaspard 15300 La Chapelle-d'Alagnon",
+                "telephone": "04 71 20 01 91",
+                "email": "lagaspardine@orange.fr",
+                "site_web": "http://www.cantal-hote.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/99/31089590.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.871294,
+                    45.090823
+                ]
+            },
+            "properties": {
+                "nom": "Martine à la maison",
+                "description": "Quatre chambres chez l'habitant dans une ancienne ferme de 1846 entièrement rénovée. Toutes les chambres sont tout confort, équipées de salle de bain ou salle d'eau et WC privatifs. Coin cuisine l'été à votre disposition dans un grand verger.",
+                "adresse": "31 Auzolles-bas 15300 Albepierre-Bredons",
+                "telephone": "04 71 20 00 80",
+                "email": "martine.nairabeze@wanadoo.fr",
+                "site_web": "http://www.legitedemartine.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/50/37368534.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.743715,
+                    45.13838
+                ]
+            },
+            "properties": {
+                "nom": "Alta Terra",
+                "description": "Ancien hôtel de tourisme de 1920, sur la route du Puy Mary, restauré dans le respect de l'architecture locale et des matériaux proches de la nature. Alta Terra joue la carte du développement durable, en vous offrant un véritable séjour \"au vert\".",
+                "adresse": "Le Pradel, 126 route du Puy Mary 15300 Lavigerie",
+                "telephone": "04 71 20 83 03",
+                "email": "info@altaterra-cantal.com",
+                "site_web": "http://www.altaterra-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/147/19764100.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.880097,
+                    45.26941
+                ]
+            },
+            "properties": {
+                "nom": "Ferme des Prades",
+                "description": "Maison de Maître (ancien château détruit à la Révolution) dans un parc d'un ha. Demeure de l'Abbé de Pradt, confesseur de Napoléon 1er. Décor de charme, meubles anciens, cuisine traditionnelle et de terroir, suivant le marché et l'humeur de la cuisinière.",
+                "adresse": "Les Prades 15160 Landeyrat",
+                "telephone": "04 71 20 48 17",
+                "email": "les-prades@wanadoo.fr",
+                "site_web": "http://www.fermedesprades.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/88/27351196.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.207621,
+                    45.256265
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de Vazerat",
+                "description": "C'est dans un environnement verdoyant surplombant la vallée de l'Alagnon que Kim et Arthur vous accueillent dans leur ferme fortifiée du XVIe siècle, patrimoine historique de Massiac.",
+                "adresse": "3 ferme de Vazerat 15500 Massiac",
+                "telephone": "04 71 23 03 05",
+                "email": "lafermedevazerat@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/56/113/36467000.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080558,
+                    44.925656
+                ]
+            },
+            "properties": {
+                "nom": "Le Grand Val - Chambres d'hôtes",
+                "description": "Aux portes de l’Aubrac, proche de l’A75, notre maison d’hôtes surplombe le lac de Garabit-Grandval, avec une vue magnifique sur le plan d’eau et son barrage.",
+                "adresse": "Lavastrie 15260 Neuvéglise-sur-Truyère",
+                "telephone": "04 71 23 83 26",
+                "email": "legrandval@le-gite-du-cantal.com",
+                "site_web": "http://www.le-gite-du-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/91/200/3459163.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.871234,
+                    45.110256
+                ]
+            },
+            "properties": {
+                "nom": "Les Volcans",
+                "description": "Véronique et Philippe vous accueillent dans un ancien hôtel du 19e siècle restauré dans le charme ancien : ancienne demeure de Jean Pagès Allary, archéologue muratais. Quatre chambres confortables avec salle d'eau et WC privatifs séparés.",
+                "adresse": "23 rue Faubourg Notre-Dame 15300 Murat",
+                "telephone": "04 71 20 25 95",
+                "email": "contact@chambresdhotes-lesvolcans-murat.fr",
+                "site_web": "http://www.chambresdhotes-lesvolcans-murat.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/188/12827881.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.715307,
+                    45.167389
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes Chez MaryElise",
+                "description": "Maison d'hôtes Chez MaryElise : Simplicité, Calme , Authenticité ... Juste l'essentiel pour se ressourcer.",
+                "adresse": "15 rue du Serger, Lieu-dit Le Serget 15400 Le Claux",
+                "telephone": "06 45 08 42 63",
+                "email": "chezmaryelise@gmail.com",
+                "site_web": "https://www.chezmaryelise.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/184/35895367.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.335231,
+                    45.104471
+                ]
+            },
+            "properties": {
+                "nom": "La Hulottière",
+                "description": "Nadine vous accueille dans son petit manoir du 17e siècle. Deux chambres de deux à trois personnes.",
+                "adresse": "Le bourg 15500 Chazelles",
+                "telephone": "04 71 73 51 88",
+                "email": "sasnadine@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/64/3817695.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04832,
+                    45.046875
+                ]
+            },
+            "properties": {
+                "nom": "Ferme le Ruisselet - Chambres et table d'hôtes",
+                "description": "Aux portes de Saint-Flour à 10 mn de l’A75, le Ruisselet est une ferme vouée à\r\nl’accueil depuis 1976. Florence, la 3ème génération vous accueille et vous fait découvrir les spécialités locales et les bons plats au goût d’antan.",
+                "adresse": "Mazérat - 23, Rue de Ribater 15100 Roffiac",
+                "telephone": "04 71 60 11 33",
+                "email": "le-ruisselet@wanadoo.fr",
+                "site_web": "http://www.ferme-le-ruisselet.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/126/37125849.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078224,
+                    44.926509
+                ]
+            },
+            "properties": {
+                "nom": "Le domaine de la Bâtisse - Chambres et table d'hôtes",
+                "description": "Cécile et Olivier vous accueillent dans leur maison d’hôtes, un ancien corps de ferme rénové, surplombant le lac de retenue du barrage de Grandval.",
+                "adresse": "2, Domaine de la Bâtisse - Grandval 15260 Neuvéglise-sur-Truyère",
+                "telephone": "06 78 78 14 26",
+                "email": "contact@domaine-batisse.com",
+                "site_web": "https://domaine-batisse.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/244/20772077.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.335927,
+                    44.781928
+                ]
+            },
+            "properties": {
+                "nom": "Maison d'hôtes et cuisine italienne \"À la Clairière\"",
+                "description": "Idéalement située entre volcans d'Auvergne et vallée du Lot, presque au bout d'une petite route qui se perd dans les champs, à 2 km de Marcolès, Petite Cité de Caractère, et à 35 km de Conques, patrimoine mondial de l'Unesco.",
+                "adresse": ", 1,7 km du bourg 15220 Marcolès",
+                "telephone": "06 80 37 62 06",
+                "email": "info@alaclairiere.com",
+                "site_web": "http://www.alaclairiere.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/160/9543704.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.251583,
+                    45.012075
+                ]
+            },
+            "properties": {
+                "nom": "Les Volpilières - Auberge et chambres d'hôtes",
+                "description": "En lisière de la forêt de la Margeride, avec un panorama d'exception, votre séjour aux Volpilières sera des plus agréables.\r\nMaison d’hôtes et auberge rurale - Ch. de 2 à 5 personnes.\r\nChambres récentes tout confort. Douches et wc dans chaque chambre.",
+                "adresse": "Trailus 15320 Ruynes-en-Margeride",
+                "telephone": "04 71 23 48 31",
+                "email": "lombard.jean-luc@wanadoo.fr",
+                "site_web": "http://lesvolpilieres-chambresdhotes.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/141/166/3909261.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.143485,
+                    44.941565
+                ]
+            },
+            "properties": {
+                "nom": "La Maison de Suzanne - Chambres d'hôtes",
+                "description": "Vous apprécierez le charme de cette grande bâtisse restaurée avec goût, à quelques min du lac de Garabit-Grandval.\r\n5 chambres de 2 à 4 personnes. Au calme avec accès indépendant. Salle d'eau et WC dans les chambres. Taxe de séjour incluse dans les tarifs.",
+                "adresse": "Faverolles 15320 Val d'Arcomie",
+                "telephone": "06 83 70 57 44",
+                "email": "nelly.coutarel@orange.fr",
+                "site_web": "http://www.gite-lesamis-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/223/46/7155423.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.601589,
+                    45.34312
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes La Ruche Cantalienne",
+                "description": "Chambre d'hôte dans le bourg paisible de Saint-Etienne de Chomeil.",
+                "adresse": "23 route des 3 Tilleuls 15400 Saint-Étienne-de-Chomeil",
+                "telephone": "06 95 23 69 16",
+                "email": "ruche-cantalienne@durdu.fr",
+                "site_web": "https://www.ruche-cantalienne.durdu.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/209/25547225.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.32438,
+                    45.242655
+                ]
+            },
+            "properties": {
+                "nom": "A l'étable au naturel",
+                "description": "Deux chambres d'hôtes de charme. Chaleureuses et confortables, parquet en bois, pierres apparentes. A quelques kms de notre exploitation  avec nos belles vaches Salers  en agriculture biologique. Petit déjeuner \"Bio\", \"maison\" et varié.",
+                "adresse": "Boulan 15200 Mauriac",
+                "telephone": "04 71 40 57 88",
+                "email": "letableaunaturel@gmail.com",
+                "site_web": "https://www.letableaunaturel.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/36/41493731.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6373,
+                    44.997
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Le Figarelou",
+                "description": "Maison de caractère datant de 1789. Deux chambres d'hôtes avec vue sur parc, au pied du volcan cantalien et à proximité de la station de sport d'hiver et d'été du Lioran.",
+                "adresse": "Le Muret 15800 Thiézac",
+                "telephone": "07 89 21 59 64",
+                "email": "veronique.barthelemy06@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/239/91/35412975.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.374666,
+                    45.117871
+                ]
+            },
+            "properties": {
+                "nom": "Auberge de la Vallée",
+                "description": "L’auberge de la vallée est un lieu authentique et convivial où on savoure une cuisine traditionnelle, et où on peut vernir boire un verre. Une chambre d’hôtes est à disposition pour vos séjours.",
+                "adresse": "1 place St-Laurent 15140 Sainte-Eulalie",
+                "telephone": "06 21 72 38 40",
+                "email": "auberge.la.vallee@hotmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/96/13393973.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.559954,
+                    45.394556
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes La Tanière",
+                "description": "Venez prendre un moment de détente à la Tanière, vous profiterez d'une de nos chambres et des moments de convivialité.",
+                "adresse": "3 route de Bort 15270 Champs-sur-Tarentaine-Marchal",
+                "telephone": "06 16 86 29 43",
+                "email": "lizambart.tatiana@neuf.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/155/158/38379163.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.453051,
+                    45.160424
+                ]
+            },
+            "properties": {
+                "nom": "Chez Dany",
+                "description": "Maison typique du pays de 1900.Dans un bourg campagnard, ambiance familiale, calme - parking - terrasse - Restaurant à 50 m.",
+                "adresse": "33 rue Antonin Frutière 15140 Saint-Bonnet-de-Salers",
+                "telephone": "04 71 69 12 03",
+                "email": "chezdany15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/172/35892347.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.527778,
+                    45.084647
+                ]
+            },
+            "properties": {
+                "nom": "Auberge du Pont",
+                "description": "L'Auberge du Pont vous accueille dans une de ses quatre chambres spacieuses et fonctionnelles.",
+                "adresse": "2 impasse du pont 15140 Saint-Projet-de-Salers",
+                "telephone": "04 71 40 60 28",
+                "email": "laporte.clement@orange.fr",
+                "site_web": "https://auberge-st-projet.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/230/35579612.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.796374,
+                    45.153318
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Cheyrelle",
+                "description": "Suite du pavillon de garde du château de la Cheyrelle. C'est une maison indépendante au charme insolite, construite en 1906 d'influence Art nouveau. Suite avec chambre et salle de bain \"à l'ancienne\", ainsi qu'une pièce à vivre dotée d'un poêle à bois.",
+                "adresse": "La Cheyrelle 15300 Dienne",
+                "telephone": "06 83 00 43 34",
+                "email": "info@chateau-cheyrelle.com",
+                "site_web": "http://chateau-cheyrelle.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/186/87/7821242.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6247,
+                    44.980125
+                ]
+            },
+            "properties": {
+                "nom": "Maison du Chevalier des Huttes",
+                "description": "Séjourner à la Maison du Chevalier des Huttes, c’est vivre une expérience humaniste, authentique et gourmande dans l’atmosphère conviviale, intimiste et confortable d’un lieu historique et d’une table d’exception, au cœur d’un environnement unique.",
+                "adresse": "4 passage du Chevalier des Huttes 15800 Vic-sur-Cère",
+                "telephone": "04 71 62 38 51",
+                "email": "contact@maisonduchevalierdeshuttes.com",
+                "site_web": "https://maisonduchevalierdeshuttes.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/122/20871842.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.707838,
+                    45.163009
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes l'Estive du Claux",
+                "description": "Chambre et table d'hôtes l'Estive du Claux.",
+                "adresse": "35, Route du Puy Mary 15400 Le Claux",
+                "telephone": "06 75 32 04 96",
+                "email": "lestiveduclaux@gmail.com",
+                "site_web": "http://www.lestiveduclaux.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/62/36257482.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.806813,
+                    44.944324
+                ]
+            },
+            "properties": {
+                "nom": "Château de Lescure - Chambres d'hôtes",
+                "description": "Chambres d’hôtes de charme dans une demeure authentique au cœur de la Vallée de Brezons.",
+                "adresse": "3, route de Brezons, Lescure 15230 Saint-Martin-sous-Vigouroux",
+                "telephone": "04 71 73 40 91",
+                "email": "michel.couillaud@orange.fr",
+                "site_web": "http://www.chateaudelescure.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/112/8876184.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.677209,
+                    45.029527
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Le Clou",
+                "description": "Hélène et Cyrille vous invitent à vous ressourcer au Clou, une ferme de montagne bâtie en 1610, située au dessus de Thiézac. Une maison de charme avec vue spectaculaire sur les Monts du Cantal.",
+                "adresse": ", Le Clou 15800 Thiézac",
+                "telephone": "04 71 47 01 45",
+                "email": "info@leclou-france.fr",
+                "site_web": "http://www.leclou-france.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/254/198/36161278.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.583024,
+                    45.028978
+                ]
+            },
+            "properties": {
+                "nom": "La Maison Normande",
+                "description": "La Maison Normande vous propose 4 chambres spacieuses et confortables, chacune avec sa salle d'eau privative, dans notre maison récemment rénovée. Un lieu de détente et de partage pour découvrir et explorer le Cantal à son rythme.",
+                "adresse": "2 rue de la Cure, Le Bourg 15590 Saint-Cirgues-de-Jordanne",
+                "telephone": "04 71 48 40 56",
+                "email": "maison.normande@outlook.com",
+                "site_web": "https://www.la-maison-normande.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/189/78/38424253.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.489221,
+                    45.135466
+                ]
+            },
+            "properties": {
+                "nom": "La Grange",
+                "description": "Dans le magnifique village médiéval de Salers, nous vous accueillons à \"La Grange\", dans nos 5 chambres d'hôtes cosy. Profitez du calme et de la vue imprenable sur les Monts du Cantal dans notre jardin de 2 hectares à 7mn à pied du centre historique.",
+                "adresse": "1 lieu dit les Prés de Nards 15140 Salers",
+                "telephone": "06 70 19 21 38",
+                "email": "info@lagrangesalers.fr",
+                "site_web": "https://lagrangesalers.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/23/12982145.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.163314,
+                    45.186247
+                ]
+            },
+            "properties": {
+                "nom": "La Maison des chats",
+                "description": "",
+                "adresse": "Le bourg 15500 Saint-Mary-le-Plain",
+                "telephone": "04 71 23 07 68",
+                "email": "christinevaleix@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.970616,
+                    45.172681
+                ]
+            },
+            "properties": {
+                "nom": "Chez Madame Morin",
+                "description": "",
+                "adresse": "15170 Sainte-Anastasie",
+                "telephone": "04 71 20 51 31",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263856,
+                    45.191771
+                ]
+            },
+            "properties": {
+                "nom": "Job Hervé",
+                "description": "",
+                "adresse": "Chaliac 15500 La Chapelle-Laurent",
+                "telephone": "04 71 73 14 93",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.176166,
+                    45.236684
+                ]
+            },
+            "properties": {
+                "nom": "Chez Nathalie & Roland",
+                "description": "Chambre privative en rez-de-chaussée, chez l'habitant, dans une maison située en campagne à 3 km de Massiac. La chambre peut accueillir 3 personnes maximum . Petit-déjeuner compris à prendre dans la cuisine attenante ou en terrasse.",
+                "adresse": "Lieu-dit Auliadet, 2 route de Tempel 15500 Massiac",
+                "telephone": "06 30 95 62 27",
+                "email": "roland.combes15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/82/88/35149906.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.934238,
+                    45.229523
+                ]
+            },
+            "properties": {
+                "nom": "La Verte Salamandre",
+                "description": "En Auvergne, au cœur d'Allanche dans le cantal, je vous propose de vous accueillir dans une chambre d'hôtes bois et pierre à la Verte Salamandre. Le logement touristique se situe sur la place de l'église, monument classé au patrimoine historique.",
+                "adresse": "12 place de l'Eglise 15160 Allanche",
+                "telephone": "09 75 68 51 43",
+                "email": "condor9@dbmail.com",
+                "site_web": "https://lavertesalamandre.goliday.com/fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/165/95/35151781.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.933908,
+                    45.229669
+                ]
+            },
+            "properties": {
+                "nom": "L'Eau Berge",
+                "description": "L’Eau Berge propose ses chambres & table d'hôte d'une capacité de 15 personnes. Nous vous accueillons dans l'ancienne école St-Joseph, décorée de la plaque « Les Justes » rappelant le courage des Sœurs de l’établissement pendant la 2ème Guerre Mondiale.",
+                "adresse": "1 place de l'Eglise 15160 Allanche",
+                "telephone": "06 52 37 74 21",
+                "email": "eauberge@outlook.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/134/151/36018054.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.144838,
+                    45.178598
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de Nozerolles",
+                "description": "Trois chambres d'hôtes dont une chambre familiale, dans une ancienne ferme entièrement restaurée. Chambres d'hôtes situées à proximité de l'autoroute A75 (5 kms) pour une halte sur la route des vacances. Table d'hôtes proposant des spécialités régionales.",
+                "adresse": "Nozerolles 15500 Saint-Mary-le-Plain",
+                "telephone": "04 71 23 05 80",
+                "email": "chalier.bernard@neuf.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/97/12870055.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.563898,
+                    45.366783
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Le Sellier",
+                "description": "Au cœur des \"Dailles\", à 5 km du bourg, 2 chambres d'hôtes au lieu dit \"Le Sellier\"\r\nforment un nid pour se ressourcer, une étape au bout du monde, aux confins de la nature et au milieu des animaux.",
+                "adresse": "5 le Sellier 15240 Antignac",
+                "telephone": "06 71 05 18 74",
+                "email": "sandra.goetgheluck@orange.fr",
+                "site_web": "https://www.fermedemontassou.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/12/30346367.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.224957,
+                    44.97606
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes du Pontdorg'hôte",
+                "description": "Maison agréable où vous passerez un séjour détendu et convivial. À 3 km de la Petite Cité de Caractère® de Laroquebrou, vous êtes déjà aux portes de l’Occitanie.",
+                "adresse": "Le Pont d'Orgon 15150 Laroquebrou",
+                "telephone": "06 63 63 24 94",
+                "email": "daubier01@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/184/28358709.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.788888,
+                    45.158404
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes de l'épicerie",
+                "description": "Location de 3 chambres confortables \"de randonneurs\", avec salle de douche et toilettes partagées. Petit déjeuner et dîner possible sur place.",
+                "adresse": "4 Route de Puy Mary 15300 Dienne",
+                "telephone": "04 71 20 59 84",
+                "email": "",
+                "site_web": "http://lepiceriededienne.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/185/17086852.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.434571,
+                    45.09184
+                ]
+            },
+            "properties": {
+                "nom": "La Demeure de Cyr",
+                "description": "La Demeure de Cyr, maison de maître de 1859, vous accueille dans ses trois chambres, au cœur du Pays de Salers. Vous pourrez profiter d'un jardin clos de 3000 m².",
+                "adresse": "1 route des Côtes 15140 Saint-Chamant",
+                "telephone": "07 70 10 18 32",
+                "email": "lademeuredecyr@sfr.fr",
+                "site_web": "https://lademeuredecyr.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/23/12654458.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.623347,
+                    44.978376
+                ]
+            },
+            "properties": {
+                "nom": "Home le Soft",
+                "description": "Chambres d 'hôtes de 5 chambres : double à suite pour 15 personnes . \r\nLieu atypique avec salle à manger , salon et terrasse en centre ville de Vic.\r\nCalme et avec vue sur les montagnes . table d 'hôte et bar .\r\nAmoureux motos & vieilles voitures bienvenue !",
+                "adresse": "35 avenue du docteur jean lambert 15800 Vic-sur-Cère",
+                "telephone": "06 42 01 64 38",
+                "email": "homelesoft15@gmail.com",
+                "site_web": "https://homelesoft.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/225/21029330.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790235,
+                    45.112412
+                ]
+            },
+            "properties": {
+                "nom": "Au cœur du Volcantal",
+                "description": "Chambres, table d'hôtes et Bien-être à Laveissière. 5 Chambres d'hôtes (capacité maximum de 11 pers.). Tables d'hôtes et paniers pique-nique sur réservation (24h à l'avance). Soins énergétiques lahochi ,triangle d'or d'Isis, access bars,  sur réservation.",
+                "adresse": "15 rue du Puy Griou, Fraisse-Haut 15300 Laveissière",
+                "telephone": "07 49 68 05 00",
+                "email": "aucoeurduvolcantal@gmx.fr",
+                "site_web": "https://www.aucoeurduvolcantal.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/220/35576907.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.221906,
+                    44.91056
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes auvergnates",
+                "description": "Maison de type auvergnat avec deux chiens qui raffolent des câlins.",
+                "adresse": "5 route des Granges, Braconnat 15290 Le Rouget-Pers",
+                "telephone": "06 80 16 02 18",
+                "email": "perschambredhote@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/30/16064171.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.001756,
+                    44.706894
+                ]
+            },
+            "properties": {
+                "nom": "Le Bessou de l'Aubrac - Chambres et table d'hôtes",
+                "description": "Au cœur du Parc Naturel Régional de l’Aubrac dans le Sud du Cantal, aux croisements de l’Aveyron et de la Lozère, pour les admirateurs de grands espaces, d’air pur et les fins gourmets.",
+                "adresse": "La Borie de Bessou 15110 Saint-Urcize",
+                "telephone": "06 43 01 93 00",
+                "email": "sophie.soulier4@orange.fr",
+                "site_web": "http://www.lebessoudelaubrac.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/173/14/19140269.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.315167,
+                    44.815139
+                ]
+            },
+            "properties": {
+                "nom": "Le Tromp l'œil - Chambres d'hôtes",
+                "description": "Chambre d'hôte, multiservice, bar-restaurant, épicerie et dépôt de pain.",
+                "adresse": "Le Bourg 15220 Vitrac",
+                "telephone": "04 71 62 94 55",
+                "email": "letromploeil@orange.fr",
+                "site_web": "https://le-tromp-loeil-68.webself.net/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/211/16110394.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.794718,
+                    45.382293
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes Chez De Vergne",
+                "description": "Quiétude, rusticité et confort à 1000m d'altitude au milieu des vaches. 4 Chambres d'hôtes labellisée \"Nattitude\".",
+                "adresse": ", Chez de Vergne 15190 Chanterelle",
+                "telephone": "06 86  81 09 23",
+                "email": "patrice.thissen@yahoo.fr",
+                "site_web": "http://www.chezdevergne.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/226/52/16397538.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.292353,
+                    45.245992
+                ]
+            },
+            "properties": {
+                "nom": "La Ruche",
+                "description": "Dans un hameau à 5 km de Mauriac et 3 km des gorges de la Dordogne, gîte dans une grange indépendante.",
+                "adresse": "3 chemin des Abeilles, La Besse 15200 Mauriac",
+                "telephone": "04 71 69 09 30",
+                "email": "gitelabesse@gmail.com",
+                "site_web": "https://www.gitelaruche.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/159/249/20773279.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.457962,
+                    45.379642
+                ]
+            },
+            "properties": {
+                "nom": "Chambres et table d'hôtes Logis du Lac Madic",
+                "description": "Cécile et Laurent vous accueillent dans leur grange réaménagée en logis pour des séjours de découvertes et de dépaysement \"au-VERT-gnat\" . Soirées étapes pour les commerciaux en semaine ou séminaires.",
+                "adresse": "72 rue des Chabannes 15210 Madic",
+                "telephone": "07 81 89 41 13",
+                "email": "contact@logisdulacmadic.com",
+                "site_web": "https://logisdulacmadic.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/18/30413543.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.724853,
+                    45.283252
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes La Grange de l'Abille",
+                "description": "Ancienne grange complétement rénovée de façon éco-responsable. A 10 min de Riom-ès-Montagnes, 20 min du Puy Mary, 40 min de la station du Lioran et celle de Super Besse.",
+                "adresse": ", 1 la Bille 15400 Marchastel",
+                "telephone": "06 52 80 22 84",
+                "email": "contact@grangedelabille.fr",
+                "site_web": "https://www.grangedelabille.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/5/19924299.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.693807,
+                    45.248857
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes Jardins Utiles",
+                "description": "Maison au coeur du village d'Apchon. Simple et authentique. Salle d'eau commune aux voyageurs. Intérieur chaleureux.",
+                "adresse": "1 rue du Bailli 15400 Apchon",
+                "telephone": "06 72 32 63 36",
+                "email": "christine.aznares@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/87/38295334.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71693,
+                    45.193706
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes de Curières",
+                "description": "Mathilde et Simon vous souhaite la bienvenue dans notre chambre d’hôtes à Curières. Datant du XVI ème, cette maison de caractère possède un parc paysager de 8000 m2 avce une vue sur le Puy Mary, le Puy de la Tourte et le Peyre Arse.",
+                "adresse": ", Curières 15400 Cheylade",
+                "telephone": "07 65 73 82 86",
+                "email": "veschambre.hotes@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/213/25/36313557.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.505576,
+                    44.756536
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Le Sécadou",
+                "description": "Notre maison de 1808, typique de la Châtaigneraie, se trouve dans un village d'un peu moins de 500 habitants. Elle a été totalement rénovée en 2018 offrant 3 chambres d'hôtes. Depuis 2025 nous avons créé une dépendance avec une suite familiale.",
+                "adresse": "2 chemin des Sources 15120 Ladinhac",
+                "telephone": "06 79 83 21 08",
+                "email": "lesecadou15120@gmail.com",
+                "site_web": "https://www.gites-de-france-cantal.fr/location-Chambre-d-hotes-Ladinhac-Cantal-15G9031.html",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/117/42038747.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.27229,
+                    45.1501
+                ]
+            },
+            "properties": {
+                "nom": "Plantes et Sabots",
+                "description": "Véronique et Emmanuel  vous accueillent sur leur ferme BIO pour un séjour au calme, au coeur du \"pays vert\" avec vue sur les montagnes.",
+                "adresse": "13 Chameyrac 15700 Barriac-les-Bosquets",
+                "telephone": "06 19 38 97 26",
+                "email": "veromanu@plantesetsabots.fr",
+                "site_web": "https://www.plantesetsabots.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/106/41380392.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.123321,
+                    45.227382
+                ]
+            },
+            "properties": {
+                "nom": "Le Clos Joli",
+                "description": "Accueil chaleureux dans une grande maison en pleine nature, avec un jardin et une vue magnifique, dans un petit village situé sur la RN122 direction le Lioran (station de ski), ainsi qu'à 5 minutes de la A75. Animaux acceptés*",
+                "adresse": "36 rue de la Charirade 15500 Molompize",
+                "telephone": "06 44 85 85 49",
+                "email": "william.chauvet@orange.fr",
+                "site_web": "https://www.airbnb.fr/rooms/1049822000266891347?adults=1&category_tag=Tag%3A8678&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=1804218531&check_in=2024-04-01&check_out=2024-04-06&source_impression_id=p3_1711442841_%2BrJtCntfkOGXF2CN&previous_page_section_name=1000&federated_search_id=765ecf76-eb5f-478f-aaa0-edb0392b8103",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/222/95/35676126.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.216514,
+                    44.650826
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes L'Entre-Deux",
+                "description": "Vous souhaitez vous poser pour une nuit ou plus afin de découvrir le village de Saint-Santin-de-Maurs et ses visites aux alentours ?",
+                "adresse": "8 place des deux Églises 15600 Saint-Santin-de-Maurs",
+                "telephone": "04 71 47 60 78",
+                "email": "contact@lentre-deux15.com",
+                "site_web": "https://www.lentre-deux15.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/217/22534627.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.614317,
+                    45.158767
+                ]
+            },
+            "properties": {
+                "nom": "L'Espalière",
+                "description": "L'Espalière, chambres d'hôtes au pied des Monts du Cantal, au coeur de la vallée du Mars avec vue sur le Puy Mary.",
+                "adresse": "10, La Peubrelie 15380 Le Falgoux",
+                "telephone": "06 65 50 83 21",
+                "email": "vincent.levizet@gmail.com",
+                "site_web": "https://lespaliere.wixsite.com/lespaliere",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/114/217/22731122.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.677173,
+                    45.327094
+                ]
+            },
+            "properties": {
+                "nom": "La Fermette de Loucheyre",
+                "description": "Chambre d'hôtes. Entrée indépendante pour les hôtes et un espace dédié.",
+                "adresse": "5 rue des Estives 15190 Saint-Amandin",
+                "telephone": "06 99 57 41 99",
+                "email": "la-fermette-de-loucheyre@hotmail.com",
+                "site_web": "https://www.la-fermette-de-loucheyre.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/233/17/23532009.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.738437,
+                    45.362125
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Equi Cantal",
+                "description": "Chambre d'hôtes en demi-pension.",
+                "adresse": "4, le Reversin 15190 Montboudif",
+                "telephone": "07 70 79 67 10",
+                "email": "equicantal@gmail.com",
+                "site_web": "http://www.equicantal.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/224/38658255.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.662422,
+                    45.404574
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Les Sentiers du Lac",
+                "description": "Besoin de vous ressourcer ? Venez vous évader à la maison, dans un lieu bucolique, où vous pourrez vous promener, vous baigner ou skier selon les saisons. Le passage du GR30 est à 1km. Nous proposons 2 chambres d'hôtes avec petit-déjeuner inclus.",
+                "adresse": "10 Les Roussilles 15270 Trémouille",
+                "telephone": "06 89 56 24 26",
+                "email": "",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/27/25041813.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3151,
+                    45.061477
+                ]
+            },
+            "properties": {
+                "nom": "Le Miraillet",
+                "description": "Chambre d'hôtes avec une capacité de 6 personnes à SAINT-ILLIDE",
+                "adresse": "4 rue du Foirail 15310 Saint-Illide",
+                "telephone": "06 45 25 85 06",
+                "email": "sandrine.dessenne@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/152/32/27009176.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.467491,
+                    45.127784
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Feignon",
+                "description": "Chambre d'hôtes avec une capacité de 4 personnes à SAINT-MARTIN-VALMEROUX",
+                "adresse": "13 route de Bassierou, Le Theil 15140 Saint-Martin-Valmeroux",
+                "telephone": "06 30 04 24 52",
+                "email": "feignon.richard@orange.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.330153,
+                    45.176532
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Vigne",
+                "description": "Chambre d'hôtes avec une capacité de 8 personnes dans le CHÂTEAU DE LA VIGNE.",
+                "adresse": "La Vigne 15700 Ally",
+                "telephone": "04 71 69 00 20",
+                "email": "chateaudelavigne@gmail.com",
+                "site_web": "http://www.chateaudelavigne.fr/#/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.310982,
+                    45.154826
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôtes TESTE",
+                "description": "Chambre d'hôtes avec une capacité de 2personnes à ALLY",
+                "adresse": ", La Butte 15700 Ally",
+                "telephone": "06 71 69 01 22",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.501098,
+                    45.078426
+                ]
+            },
+            "properties": {
+                "nom": "Les Nuits de Vieillespeze",
+                "description": "2 Chambre d’hôtes pour une capacité maximum de 6 personnes",
+                "adresse": "6 Vieillespeze 15140 Saint-Projet-de-Salers",
+                "telephone": "06 86 16 43 97",
+                "email": "lesnuitsdevieillespeze@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/230/35579647.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.457556,
+                    45.216152
+                ]
+            },
+            "properties": {
+                "nom": "Château de Longevergne",
+                "description": "Au beau milieu de la vallée du Mars, trône le château de Longevergne. A taille humaine, daté du XIIIe siècle, il en impose par son charme si particulier, son architecture néo-médiévale et son style troubadour. Chambres d’hôtes dans un mobilier d’époque.",
+                "adresse": "6 lieu-dit Longevergne 15380 Anglards-de-Salers",
+                "telephone": "06 22 64 57 74",
+                "email": "chateaudelongevergne@gmail.com",
+                "site_web": "https://longevergne.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/89/27482421.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.708945,
+                    45.206691
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d’hôtes Cresta Domi",
+                "description": "Vous serez accueillis dans la vallée de Cheylade avec vue imprenable sur le Puy Mary. Des chambres confortables et un grand jardin ombragé au milieu des prés sont propices à un temps de détente et comme point de départ pour de nombreuses activités.",
+                "adresse": "1 chemin du Chambon, Le Chambon 15400 Cheylade",
+                "telephone": "787046544",
+                "email": "adgueguen@orange.fr",
+                "site_web": "https://domi.cresta-dev.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/172/122/32668332.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.915741,
+                    45.248559
+                ]
+            },
+            "properties": {
+                "nom": "Chambre chez l'Habitant - Le Havre de Paix",
+                "description": "Sur le Tour des Vaches rouges, chambres d'hôtes : 2 chambres traversantes : 1 chambre 2 pers. et 1 chambre 2 pers.",
+                "adresse": "Rue du bois de la Mauve, Romaniargues 15160 Allanche",
+                "telephone": "06 62 83 55 91",
+                "email": "marionmespoulhes@hotmail.com",
+                "site_web": "https://www.airbnb.fr/rooms/901413443537555024?source_impression_id=p3_1745228928_P3Yt6njRWuVhhwme",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/250/30865991.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873608,
+                    45.112593
+                ]
+            },
+            "properties": {
+                "nom": "Le Vol du Milan",
+                "description": "Chambre familiale avec salle de bain attenante dans notre maison avec une vue magnifique sur les monts du Cantal. Un salon avec des jeux vous est réservé ainsi que pour le petit déjeuner inclus. Cuisine à votre disposition si besoin.",
+                "adresse": "14 rue Marchadial 15300 Murat",
+                "telephone": "06 07 62 13 04",
+                "email": "levoldumilan@outlook.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/63/32522186.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.009474,
+                    45.124266
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'Hôtes \"Vacances à la Ferme Fruitée\"",
+                "description": "Bonjour, la ferme fruitée aime à vivre en harmonie avec la nature ; elle vous invite à partager cette belle aventure.",
+                "adresse": "Séverac 15170 Neussargues-Moissac",
+                "telephone": "06 45 35 07 51",
+                "email": "",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/210/33477286.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.400661,
+                    45.12978
+                ]
+            },
+            "properties": {
+                "nom": "Imago",
+                "description": "Situé à Sainte-Eulalie, l’hébergement chambres d'hôtes Imago met à votre disposition 2 chambres, une connexion Wi-Fi gratuite et offre une vue sur la montagne. Il comprend un jardin et un parking privé gratuit.",
+                "adresse": "3 rue des Abeilles, Moncelle 15140 Sainte-Eulalie",
+                "telephone": "",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.573922,
+                    45.187069
+                ]
+            },
+            "properties": {
+                "nom": "Chambre d'hôte Genestal",
+                "description": "Chambre d'hôtes , capacité 2 pers.",
+                "adresse": "37 route St-Pierre, La Moréthie 15380 Le Vaulmier",
+                "telephone": "",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.313131,
+                    45.173389
+                ]
+            },
+            "properties": {
+                "nom": "Au Relais de Poste",
+                "description": "4 chambres toute équipés : \r\n\r\nLit double 160x200\r\nLit simple 90x190\r\nTélévisions 80cm\r\nClimatisée\r\nAccès internet gratuit par wifi\r\nToilettes séparés\r\nGrandes salle de bain avec douche à l'italienne\r\nParking privée et sur vidéo surveillance",
+                "adresse": "1 rue de la xaintrie, ei le relais de poste 15700 Ally",
+                "telephone": "06 79 56 65 62",
+                "email": "lerelaisdeposte15@gmail.com",
+                "site_web": "https://lerelaisdeposte-ally.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/35/36447056.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.855964,
+                    45.019599
+                ]
+            },
+            "properties": {
+                "nom": "Le domaine de Belinay - Chambres et table d'hôtes",
+                "description": "L'établissement dispose de 5 chambres d’hôtes et d’une table d’hôtes conviviale.",
+                "adresse": "Belinay 15430 Paulhac",
+                "telephone": "06 38 93 98 06",
+                "email": "reservationsbelinay@gmail.com",
+                "site_web": "https://ledomainebelinay.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/92/204/37407836.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.898458,
+                    44.839934
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôtes Besson",
+                "description": "A Lieutadès en Aubrac, 3 chambres et table d’hôtes dans une maison de 1662. Charme authentique.",
+                "adresse": "Le Bourg 15110 Lieutadès",
+                "telephone": "06 78 04 13 22",
+                "email": "florian.besson@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/125/41582007.jpg"
+            }
+        }
+    ]
 }

@@ -1,4 +1,1715 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.196134,
+                    44.964438
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Le Pré des Bains",
+                "description": "Au cœur de l’Auvergne, le camping de Laroquebrou est en bordure de rivière, la Cère, dans un environnement calme et verdoyant.",
+                "adresse": ", 1 route de Saint-Étienne 15150 Laroquebrou",
+                "telephone": "04 71 46 02 84",
+                "email": "mairie@laroquebrou.fr",
+                "site_web": "http://www.laroquebrou.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/176/34/8725168.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.260406,
+                    44.681908
+                ]
+            },
+            "properties": {
+                "nom": "Camping Moulin de Chaules",
+                "description": "Camping situé aux portes de 3 départements plein d'attraits, le Cantal, le Lot et l'Aveyron.",
+                "adresse": ", Chaules 15600 Saint-Constant-Fournoulès",
+                "telephone": "04 71 49 11 02",
+                "email": "camping@moulin-de-chaules.com",
+                "site_web": "http://www.moulin-de-chaules.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/110/156/5151854.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3589,
+                    44.71
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle Les Érables",
+                "description": "Aire naturelle, ombragée et calme. Accès gratuit à la baignade communale surveillée par un maître-nageur sauveteur.",
+                "adresse": ", Le Puech 15340 Calvinet",
+                "telephone": "04 71 49 94 32",
+                "email": "mairie@puycapel.fr",
+                "site_web": "https://puycapel.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/143/1806297.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.206736,
+                    44.706094
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Le Vert",
+                "description": "Le Camping municipal Le Vert,  labellisé « Camping de Mon Village » accueille le visiteur au cœur de la Châtaigneraie Cantalienne, au sein d'une nature préservée propice à la détente dans un cadre verdoyant.",
+                "adresse": ", Avenue du Stade 15600 Maurs",
+                "telephone": "04 71 49 00 32",
+                "email": "camping@ville-maurs.fr",
+                "site_web": "http://www.campinglevert-maurs.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/143/1806300.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5069,
+                    44.701
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal La Grangeotte",
+                "description": "Montsalvy, Petite Cité de Caractère® vous accueille dans son camping avec piscine gratuite pour les campeurs.",
+                "adresse": ", 2 chemin du Stade 15120 Montsalvy",
+                "telephone": "04 71 49 20 10",
+                "email": "mairie@montsalvy.fr",
+                "site_web": "http://www.montsalvy.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/176/8368144.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3669,
+                    44.643
+                ]
+            },
+            "properties": {
+                "nom": "Camping Coursavy",
+                "description": "Le camping de Coursavy se trouve à l'extrême sud de l'Auvergne, au bord de la rivière Lot.",
+                "adresse": ", Coursavy 15340 Cassaniouze",
+                "telephone": "04 71 49 97 70",
+                "email": "info@campingcoursavy.com",
+                "site_web": "http://www.campingcoursavy.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/191/34/8725183.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.253773,
+                    44.779156
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Le Moulègre",
+                "description": "Camping situé dans le joli village de Boisset, à proximité du ruisseau le Moulègre.",
+                "adresse": ", Trémats 15600 Boisset",
+                "telephone": "04 71 62 20 97",
+                "email": "communeboisset@wanadoo.fr",
+                "site_web": "https://commune-boisset-cantal.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/229/143/1806309.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.353617,
+                    44.780654
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal L'Étang aux Hirondelles",
+                "description": "Situé en lisière du village, vous bénéficierez d'une situation privilégiée pour découvrir toutes les richesses patrimoniales du village médiéval de Marcolès  classé Petite Cité de Caractère et Plus Beau Village de France.",
+                "adresse": "Rue du Stade, La Parro 15220 Marcolès",
+                "telephone": "04 71 46 98 98",
+                "email": "mairie-marcoles@wanadoo.fr",
+                "site_web": "http://www.marcoles.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/142/130/9208462.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.309709,
+                    44.85345
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Les Parrines",
+                "description": "Le site champêtre du camping de Saint-Mamet-la-Salvetat vous séduira pour des séjours paisibles au grand air.",
+                "adresse": "Rue du Camping, Les Parrines 15220 Saint-Mamet-la-Salvetat",
+                "telephone": "04 71 64 75 21",
+                "email": "campingstmamet15@hotmail.fr",
+                "site_web": "http://www.stmamet-lasalvetat.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/95/105/3238239.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.237181,
+                    44.889252
+                ]
+            },
+            "properties": {
+                "nom": "Camping de la Ferme de Viescamp",
+                "description": "Camping à la Ferme *** de 18 emplacements avec sanitaires privés. Toujours l'ambiance du petit camping à la ferme mais avec du confort !!!",
+                "adresse": "15 avenue des Tilleuls 15290 Le Rouget-Pers",
+                "telephone": "06 20 57 88 19",
+                "email": "lacaze@viescampers.com",
+                "site_web": "http://www.viescampers.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/136/4/20120712.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.230739,
+                    44.935413
+                ]
+            },
+            "properties": {
+                "nom": "Camping Les Rives du Lac",
+                "description": "Le camping Les Rives du Lac vous accueille au bord du lac de Saint-Étienne-Cantalès. Il est situé au sud de l'Auvergne dans le département du Cantal.",
+                "adresse": ", Plage d'Espinet 15150 Saint-Gérons",
+                "telephone": "06 25 34 62 89",
+                "email": "info@lesrivesdulac.fr",
+                "site_web": "http://www.lesrivesdulac.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/12/128/11698188.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.215301,
+                    44.938072
+                ]
+            },
+            "properties": {
+                "nom": "Domaine La Plage du Garoustel",
+                "description": "À la limite du Cantal et du Lot, le Domaine La Plage du Garoustel est idéalement situé à proximité du barrage de Saint-Étienne-Cantalès, dont la mise en eau a créé l’un des plus beaux lacs artificiels de France.",
+                "adresse": ", 1 Route de Rénac-Plage 15150 Saint-Gérons",
+                "telephone": "06 21 63 06 86",
+                "email": "accueil@camping-legaroustel.fr",
+                "site_web": "http://www.camping-legaroustel.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/41/117/12875049.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666609,
+                    45.282015
+                ]
+            },
+            "properties": {
+                "nom": "Camping / Gîtes Le Sédour",
+                "description": "Camping Le Sedour à Riom-ès-Montagnes : Espace tente, aire de service et accueil van et Camping car. Situé dans un cadre paisible, ombragé en bord de rivière et à 300m du centre ville, le camping vous assure un séjour agréable.",
+                "adresse": "Route de Condat 15400 Riom-ès-Montagnes",
+                "telephone": "09 67 78 05 71",
+                "email": "lesedour15@gmail.com",
+                "site_web": "http://campingitesriomcantal.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/111/206/36228719.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.708043,
+                    45.158795
+                ]
+            },
+            "properties": {
+                "nom": "Camping Les Monts du Cantal",
+                "description": "Ce petit havre de paix situé en bordure de rivière avec un joli panorama montagne vous accueille dans un cadre paisible et verdoyant, aux portes du Puy Mary et des Monts du Cantal.",
+                "adresse": "7 Route de chabraire 15400 Le Claux",
+                "telephone": "07 66 37 59 72",
+                "email": "campinglesmontsducantal@onlycamp.frr",
+                "site_web": "http://www.camping-le-claux.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/200/88/41638088.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71841,
+                    45.20975
+                ]
+            },
+            "properties": {
+                "nom": "Camping Municipal La Biaugue",
+                "description": "Camping semi-ombragé avec vue sur la vallée de Cheylade, au départ de nombreuses randonnées pédestre.",
+                "adresse": "15400 Cheylade",
+                "telephone": "04 71 78 90 67",
+                "email": "mairie.cheylade@wanadoo.fr",
+                "site_web": "http://www.cheylade.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/174/175/38186926.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.538011,
+                    45.253367
+                ]
+            },
+            "properties": {
+                "nom": "Camping OnlyCamp Le Pioulat",
+                "description": "Charmant camping au bord du plan d'eau de Trizac",
+                "adresse": "15400 Trizac",
+                "telephone": "07 67 24 28 24",
+                "email": "campinglepioulat@onlycamp.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/246/23131719.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.692952,
+                    45.246602
+                ]
+            },
+            "properties": {
+                "nom": "Camping Municipal d'Apchon",
+                "description": "Camping municipal au pied de l'ancien château, situé près de la route touristique du Puy Mary.",
+                "adresse": "14 rue du Coudert 15400 Apchon",
+                "telephone": "04 71 78 03 98",
+                "email": "mairie.apchon@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/116/50/28783220.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.423244,
+                    45.116178
+                ]
+            },
+            "properties": {
+                "nom": "Camping Le Moulin du Teinturier",
+                "description": "88 emplacements sur 5,5 ha - Terrain familial, calme, emplacements spacieux et délimités - Borne camping-cars - emplacements caravanes - Bâtiments sanitaires - possibilité emplacements avec branchement électrique.",
+                "adresse": "9 rue de Montjoly 15140 Saint-Martin-Valmeroux",
+                "telephone": "04 71 69 49 92",
+                "email": "saintmartincamping15@gmail.com",
+                "site_web": "http://camping15140.free.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/192/105/41380288.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.500007,
+                    45.113268
+                ]
+            },
+            "properties": {
+                "nom": "Camping la Pierre Plate",
+                "description": "Camping 30 emplacements sur terrain ombragé à proximité du bourg.",
+                "adresse": "Le Bourg 15140 Fontanges",
+                "telephone": "04 71 40 71 49",
+                "email": "mairie.fontanges2@wanadoo.fr",
+                "site_web": "https://www.fontanges.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/168/36415574.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.620009,
+                    45.153225
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle le Chambon",
+                "description": "Aire naturelle de camping située en bord de rivière, en fond de vallée. Calme, espace environnement paysages montagneux.",
+                "adresse": "8, Route du Col de Neronne 15380 Le Falgoux",
+                "telephone": "04 71 69 51 28",
+                "email": "mairie.lefalgoux@wanadoo.fr",
+                "site_web": "https://www.lefalgoux.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/80/41635916.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25857,
+                    45.071812
+                ]
+            },
+            "properties": {
+                "nom": "Camping Pont du Rouffet",
+                "description": "Petit camping convivial sans animation, qui se trouve au milieu de la nature et au bord d'un grand lac dans le Cantal.\r\nIdéal pour les amoureux de la randonnée, la baignade, le vélo, le canoë, la pêche, la tranquillité.",
+                "adresse": "10 route du Pont du Rouffet 15140 Saint-Martin-Cantalès",
+                "telephone": "04 71 69 42 76",
+                "email": "contact@campingpontdurouffet.fr",
+                "site_web": "http://www.campingpontdurouffet.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/226/41804367.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.593406,
+                    45.100383
+                ]
+            },
+            "properties": {
+                "nom": "Domaine du Lissart de Miège",
+                "description": "Situé à 939 mètres d'altitude sur la commune du Fau nichée au coeur même d'une des plus belles vallées du Cantal, le Camping Lissart de Miège vous accueille dans le Parc Régional des Volcans d'Auvergne, au coeur du Grand Site du Puy Mary.",
+                "adresse": "La Bastide 15140 Le Fau",
+                "telephone": "06 78 34 38 55",
+                "email": "evelyne.riol@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/206/150/7509710.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.439716,
+                    45.201741
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle les Fraux",
+                "description": "Situé à 820 m d'altitude, à mi-chemin entre Mauriac et Salers, l'aire naturelle «Les Fraux» propose 25 emplacements.",
+                "adresse": "Rue des Marronniers 15380 Anglards-de-Salers",
+                "telephone": "04 71 40 00 02",
+                "email": "mairie@anglards-de-salers.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/207/178/5747407.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.498424,
+                    45.147624
+                ]
+            },
+            "properties": {
+                "nom": "Camping le Mouriol",
+                "description": "Le camping vous accueille sur un terrain familial, de 80 emplacements délimités sur 2ha, ombragé et calme.",
+                "adresse": "7 route du Puy-Mary, Le Mouriol-Bas 15140 Salers",
+                "telephone": "04 71 40 73 09",
+                "email": "camping.mouriol.salers@orange.fr",
+                "site_web": "http://www.salers.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/179/5747573.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.223036,
+                    45.136933
+                ]
+            },
+            "properties": {
+                "nom": "L'Echappée Verte",
+                "description": "51 emplacements sur 1,7 ha - Terrain ombragé à proximité du bourg et des équipements de loisirs.",
+                "adresse": "4, Allée de Triniac 15700 Pleaux",
+                "telephone": "04 71 40 40 05",
+                "email": "contact@pleaux.fr",
+                "site_web": "http://www.camping-pleaux.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/121/186/41400953.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.51051,
+                    45.451912
+                ]
+            },
+            "properties": {
+                "nom": "Camping L'Air du Temps",
+                "description": "Situé au cœur du Parc naturel régional des Volcans d’Auvergne ce camping de charme avec vue panoramique sur le lac de Bort-les-Orgues et les Monts du Cantal, est calme et sans animations. Niché en pleine nature, il se distingue par son cadre exceptionnel.",
+                "adresse": "1, La Barrière 15270 Beaulieu",
+                "telephone": "06 08 08 19 22",
+                "email": "campinglairdutemps@wanadoo.fr",
+                "site_web": "http://camping-ferme-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/75/30886884.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.405871,
+                    45.363137
+                ]
+            },
+            "properties": {
+                "nom": "Les Chalets du camping de Béringer",
+                "description": "Dans le Nord Cantal, situés à 1 km du bourg, 3 chalets d'une capacité de 5 personnes, entièrement équipés vous attendent pour un séjour de détente, de stages sportifs, de découverte, pour des vacances, réunions familiales ou entre amis.",
+                "adresse": "Montruc 15350 Champagnac",
+                "telephone": "04 71 69 61 55",
+                "email": "contact@champagnac.fr",
+                "site_web": "https://champagnac.fr/aire-camping-car-park/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/227/30598066.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.583574,
+                    45.367274
+                ]
+            },
+            "properties": {
+                "nom": "Camping de l'Écureuil",
+                "description": "Au cœur de la nature sauvage et des prairies verdoyantes du haut cantal, venez découvrir notre camping « nature » et son jardin animalier. Vous y trouverez le calme, la qualité d’accueil et la convivialité.",
+                "adresse": "L'Écureuil 15270 Champs-sur-Tarentaine-Marchal",
+                "telephone": "04 71 78 71 85",
+                "email": "gbfabienne@free.fr",
+                "site_web": "https://www.campinglecureuil.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/74/30886609.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.603435,
+                    45.394133
+                ]
+            },
+            "properties": {
+                "nom": "Camping de l'Étang",
+                "description": "Camping  au cœur de l'Artense dans un site paradisiaque, calme en pleine nature. Le camping se situe sur un terrain de 5 hectares.",
+                "adresse": "1 Mérigot 15270 Champs-sur-Tarentaine-Marchal",
+                "telephone": "06 82 91 65 62",
+                "email": "merigot15@outlook.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/206/38391322.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.548934,
+                    45.390793
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de La Tarentaine",
+                "description": "Dans le Parc naturel régional des Volcans d’Auvergne, le camping de la Tarentaine est un havre de paix où de nombreuses activités sont proposées. Endroit idéal pour se reposer mais aussi découvrir, manger, marcher, se baigner, pédaler, flâner, rencontrer…",
+                "adresse": "6, rue du Pont de Lourseyre 15270 Champs-sur-Tarentaine-Marchal",
+                "telephone": "04 71 78 71 25",
+                "email": "contact@champs-marchal.org",
+                "site_web": "https://www.champs-marchal.org/office-de-tourisme_fr.html",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/58/66/30622266.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.503779,
+                    45.430308
+                ]
+            },
+            "properties": {
+                "nom": "Camping Huttopia Lac de la Siauve",
+                "description": "Situé au cœur de l'Auvergne, le camping Huttopia Lac de la Siauve offre un cadre naturel paisible avec une vue panoramique sur le lac de Bort-les-Orgues. Les vastes espaces et la piscine chauffée vous attendent après de belles randonnées dans la région.",
+                "adresse": "Rue du camping 15270 Lanobre",
+                "telephone": "04 71 40 31 85",
+                "email": "lacdelasiauve@huttopia.com",
+                "site_web": "https://europe.huttopia.com/site/lac-de-siauve/?utm_medium=annuaire&utm_source=tourisme_sumene_artense&utm_campaign=lac_de_la_siauve",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/206/38391302.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.473823,
+                    45.336875
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de Bellevue",
+                "description": "Emplacements délimités sur un terrain plat et ombragé, à proximité d'équipements de loisirs : piscine, tennis , terrain de pétanque, jeux pour enfants.",
+                "adresse": "Complexe sportif de Bellevue 15240 Saignes",
+                "telephone": "04 71 40 62 80",
+                "email": "saignes.mairie@wanadoo.fr",
+                "site_web": "https://saignes15.fr/tourisme-et-loisirs/location-vacances-etou-gites-ruraux/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/205/38391278.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.390345,
+                    45.391621
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Les Pagues",
+                "description": "Découvrir le charme de la campagne et la beauté des gorges de la Dordogne. Passionnés de nature, des emplacements traditionnels ou des locations de mobil-homes vous y attendent.",
+                "adresse": "17 rue du mentier, Les Pagues Nord 15350 Saint-Pierre",
+                "telephone": "04 71 69 62 14",
+                "email": "sejourstpierre@orange.fr",
+                "site_web": "https://www.mairie-saint-pierre.fr/hebergements-locations-saint-pierre",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/28/80/30887964.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666201,
+                    45.403874
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Les Bruyères",
+                "description": "Situé au cœur d'un site naturel de 5ha, à proximité des lacs de Lastioulles et de La Crégut. Emplacements non délimités avec ou sans ombrage, branchements électriques, lave et sèche linge collectifs, jeux pour enfants, ping-pong, calme et détente assurée.",
+                "adresse": "1 Pacher Daval 15270 Trémouille",
+                "telephone": "04 71 78 77 44",
+                "email": "tourisme@tremouille.fr",
+                "site_web": "https://www.tremouille.fr/camping-tremouille-15-cantal-auvergne-rhone-alpes_fr.html",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/75/30886812.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.499352,
+                    45.363068
+                ]
+            },
+            "properties": {
+                "nom": "Camping Ferme de séjour",
+                "description": "Venez découvrir notre camping familial sur un terrain aménagé et délimité. Des vacances en pleine nature, au vert, en profitant de la piscine, jeux pour les enfants.",
+                "adresse": "4  Verchalles soutro 15240 Vebret",
+                "telephone": "04 71 40 21 58",
+                "email": "guy-galvaing@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/68/30622962.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.670305,
+                    45.01361
+                ]
+            },
+            "properties": {
+                "nom": "Camping la Bédisse",
+                "description": "En famille, posez vos valises en tente, tipi ou chalet au bord de la rivière qui traverse le camping de la Bédisse à Thiézac, et profitez pleinement de l’accueil familial et chaleureux que vous réservent Audrey et Aymeri.",
+                "adresse": "La Bédisse 15800 Thiézac",
+                "telephone": "04 71 47 00 41",
+                "email": "campinglabedisse@gmail.com",
+                "site_web": "http://www.campinglabedisse.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/253/49/9187837.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.713564,
+                    45.052548
+                ]
+            },
+            "properties": {
+                "nom": "Camping des Blats",
+                "description": "Fabrice, Angélique et leurs 3 enfants seront ravis de vous accueillir dans leur camping qui longe la rivière Cère, à 7 kms du Lioran ; camping familial et convivial, respectueux de la nature, idéal pour se ressourcer au calme.",
+                "adresse": "Route de la Gare 15800 Saint-Jacques-des-Blats",
+                "telephone": "04 71 47 06 00",
+                "email": "campingdesblats@gmail.com",
+                "site_web": "http://www.camping-des-blats.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/25/37558577.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.610798,
+                    44.872294
+                ]
+            },
+            "properties": {
+                "nom": "La Sapinière",
+                "description": "Bloc sanitaire, espace jeux, salle.",
+                "adresse": "Le Bourg 15130 Cros-de-Ronesque",
+                "telephone": "",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.629219,
+                    44.981215
+                ]
+            },
+            "properties": {
+                "nom": "Camping Vic Nature**",
+                "description": "Venez vous ressourcer dans ce magnifique parc arboré en bordure de rivière à proximité des Monts du Cantal. Lieu idéal pour des vacances à l'état pur! Entre amis, en famille ou en couple vous goûterez aux plaisirs de la montagne.",
+                "adresse": "15 allée des Tilleuls 15800 Vic-sur-Cère",
+                "telephone": "04 71 47 51 75",
+                "email": "campingvicnature@gmail.com",
+                "site_web": "https://camping-vicnature.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/216/36493520.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.641534,
+                    44.985867
+                ]
+            },
+            "properties": {
+                "nom": "G.C.U",
+                "description": "Camping GCU à Vic sur Cère",
+                "adresse": "Salvanhac 15800 Vic-sur-Cère",
+                "telephone": "01 47 63 98 63",
+                "email": "gcu.rocher@wanadoo.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.677168,
+                    45.029507
+                ]
+            },
+            "properties": {
+                "nom": "Le Clou",
+                "description": "Situé sur le GR400 à 6 KM du village de Thiezac, le CLOU vous propose un petit camping avec une vue magnifique sur les monts du Cantal et la vallée de la Cère.",
+                "adresse": "15800 Thiézac",
+                "telephone": "04 71 47 01 45",
+                "email": "info@leclou-france.fr",
+                "site_web": "http://www.leclou-france.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/6/193/37273862.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.632996,
+                    44.971212
+                ]
+            },
+            "properties": {
+                "nom": "La Pommeraie",
+                "description": "Déposez vos valises à la Pommeraie et vous passerez un séjour magique en toute simplicité. Pour des vacances riches en découvertes et  en activités, la Pommeraie sera votre destination idéale.",
+                "adresse": "La Pommeraie 15800 Vic-sur-Cère",
+                "telephone": "04 71 47 54 18",
+                "email": "reception@camping-la-pommeraie.com",
+                "site_web": "http://www.camping-la-pommeraie.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/94/85/27350366.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.587345,
+                    44.948034
+                ]
+            },
+            "properties": {
+                "nom": "Camping du Val de Cère",
+                "description": "Le Camping du Val de Cère vous donne les clés d’un séjour en famille, avec des équipements de loisirs pour petits et grands (piscine, terrain de tennis…) sur un terrain plat et ombragé de 2,5 ha en bord de rivière et à proximité de toute les commodités. ",
+                "adresse": "Camping du Val de Cère, 2 route de cansel 15800 Polminhac",
+                "telephone": "04 71 62 53 42",
+                "email": "contact@campingduvaldecere.fr",
+                "site_web": "http://www.camping-polminhac.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/62/139/35294014.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.662764,
+                    45.015703
+                ]
+            },
+            "properties": {
+                "nom": "La Sapinière- Aire de Camping Car",
+                "description": "Aire de services et de stationnement. Stationnement gratuit, jetons en vente au tarif de 2 € à l'épicerie Coccinelle - Lauzet (pour le plein d'eau ou 1h d'électricité)",
+                "adresse": "La Sapinière 15800 Thiézac",
+                "telephone": "04 71 47 01 21",
+                "email": "mairie@thiezac.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/9/199/8374025.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121346,
+                    45.267814
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de la Sianne",
+                "description": "Camping municipal situé dans la vallée de la Sianne, au bord de la rivière avec un terrain semi-ombragé de 0,76 ha. 28 emplacements dont 18 emplacements pour caravanes et camping-cars.",
+                "adresse": "Le bourg 15500 Auriac-l'Église",
+                "telephone": "04 71 73 91 28",
+                "email": "mairie.auriac.leglise@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/238/17427983.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21894,
+                    44.999069
+                ]
+            },
+            "properties": {
+                "nom": "Le Petit Bois camping",
+                "description": "A 6 km de l'A 75, sortie 30, emplacements de camping et locations à 500 m du centre-village de Ruynes en Margeride avec vue imprenable sur les Monts du Cantal et la Margeride.\r\n68 emplacements et 28 chalets ou cabanes.",
+                "adresse": "3, rue Gustave Eiffel - Léon Boyer 15320 Ruynes-en-Margeride",
+                "telephone": "04 71 23 93 86",
+                "email": "campinglepetitbois15@gmail.com",
+                "site_web": "https://campinglepetitboiscantal.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/167/252/17562791.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.082781,
+                    45.033168
+                ]
+            },
+            "properties": {
+                "nom": "Camping de mon Village - Camping** Car Park Les Orgues",
+                "description": "Un camping idéalement situé à quelques pas du centre historique tout en étant au calme. A proximité des commerces (5 mn à pied)  et du Centre aqualudique intercommunal. Un camp de base idéal pour découvrir Saint-Flour et le Cantal.",
+                "adresse": "17, avenue du Dr Mallet 15100 Saint-Flour",
+                "telephone": "01 83 64 69 21",
+                "email": "",
+                "site_web": "https://bit.ly/camping-lesorgues",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/20/199/10143508.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.109574,
+                    45.276058
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de Laurie",
+                "description": "A la croisée des départements du Cantal, du Puy de Dôme et de la Haute-Loire, dans un cadre de verdure préservée, le camping municipal de Laurie offre un cadre presque sauvage.",
+                "adresse": "La Prade 15500 Laurie",
+                "telephone": "06 21 60 03 84",
+                "email": "laurie36@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/216/19/35656664.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20944,
+                    44.889741
+                ]
+            },
+            "properties": {
+                "nom": "Camping de Saint-Just - Only Camp",
+                "description": "Dans son écrin de verdure, le camping de part et d'autre de son petit ruisseau, assure calme et repos dans le village tout en granite de Saint-Just.\r\n48 emplacements avec 6 mobil-homes et 5 chalets (chalets hors camping). Piscine en haute saison.",
+                "adresse": "9 rue du 22 juin 1944, Le Bourg de Saint-Just 15320 Val d'Arcomie",
+                "telephone": "04 71 73 70 11",
+                "email": "campingdesaintjust@onlycamp.fr",
+                "site_web": "https://www.onlycamp.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/129/217/3594625.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.804719,
+                    44.921658
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de Saint-Martin-sous-Vigouroux",
+                "description": "Camping au bord du ruisseau du Brezons dans la Vallée de Brezons, une des plus belles vallées glaciaires en auge d'Europe.",
+                "adresse": "Le bourg 15230 Saint-Martin-sous-Vigouroux",
+                "telephone": "04 71 23 33 16",
+                "email": "mairie.stmartinvigouroux@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/63/47/8400703.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.146773,
+                    44.938667
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal de Faverolles",
+                "description": "Petit camping dans le charmant village de Faverolles, à 5 minutes du lac de Garabit-Grandval. Dans le village : restaurant / bar, épicerie avec dépôt de pain. \r\n4 emplacements - 4 douches – 4 WC. \r\n5 emplacements à louer sur herbe - douche - WC.",
+                "adresse": "Camping de Faverolles 15320 Val d'Arcomie",
+                "telephone": "04 71 73 70 11",
+                "email": "service.tourisme@valdarcomie.fr",
+                "site_web": "http://www.valdarcomie.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/177/216/3594417.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04832,
+                    45.046875
+                ]
+            },
+            "properties": {
+                "nom": "Ferme Le Ruisselet",
+                "description": "Aux portes de Saint-Flour, à 10 mn de l’A75, le Ruisselet est une ferme vouée à l’accueil depuis 1976.",
+                "adresse": "Mazérat - 23, Rue de Ribater 15100 Roffiac",
+                "telephone": "04 71 60 11 33",
+                "email": "le-ruisselet@wanadoo.fr",
+                "site_web": "http://www.ferme-le-ruisselet.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/214/45/3616214.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.192425,
+                    45.248485
+                ]
+            },
+            "properties": {
+                "nom": "Camping \"mon village de Massiac\"",
+                "description": "Près de l’autoroute A75 à Massiac, labellisé Village étape, situé entre les Monts du Cantal et le Massif du Cézallier. Camping calme et ombragé au bord de la rivière Alagnon idéal pour les pêcheurs. Aire d'accueil pour camping-cars (49 places).",
+                "adresse": "Avenue de Courcelles 15500 Massiac",
+                "telephone": "01 83 64 69 21",
+                "email": "contact@campingcarpark.com",
+                "site_web": "https://www.campingcarpark.com/fr_FR/recherche/aires/liste?query=massiac#0",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/255/84/12670207.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.000179,
+                    44.845007
+                ]
+            },
+            "properties": {
+                "nom": "Camping du Couffour",
+                "description": "Situé à 2 km de Chaudes-Aigues (direction Rodez) sur le site privilégié du Château du Couffour, un camping pour les campeurs, simple et nature.",
+                "adresse": "Le Couffour, Le Couffour 15110 Chaudes-Aigues",
+                "telephone": "04 71 23 57 08",
+                "email": "contact@chaudes-aigues.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/120/36/7283832.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.999138,
+                    44.687977
+                ]
+            },
+            "properties": {
+                "nom": "Domaine de l'Ours*** - En Aubrac",
+                "description": "A 23 km de Chaudes-Aigues. Dans un cadre verdoyant, le camping de Saint-\r\nUrcize essaime une succession de terrasses naturelles face au village.",
+                "adresse": "Les Ourtals 15110 Saint-Urcize",
+                "telephone": "04 71 20 27 99",
+                "email": "contact@domainedelours.fr",
+                "site_web": "http://www.domainedelours.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/49/36516120.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.085798,
+                    44.902126
+                ]
+            },
+            "properties": {
+                "nom": "Camping les Prés Verts",
+                "description": "14 emplacements. Camping situé à 13 km de Chaudes-Aigues.",
+                "adresse": "23 route du Barrage 15110 Fridefont",
+                "telephone": "06 77 24 22 29",
+                "email": "mairie.fridefont@wanadoo.fr",
+                "site_web": "http://www.fridefont.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/211/191/2146259.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.00122,
+                    44.896005
+                ]
+            },
+            "properties": {
+                "nom": "Flower Camping Le Belvédère",
+                "description": "Camping location chalets, mobil-homes et tentes, au cœur de la nature, avec vue panoramique sur les Gorges de la Truyère et son lac.",
+                "adresse": "4 route des vacances - Lanau 15260 Neuvéglise-sur-Truyère",
+                "telephone": "04 71 23 50 50",
+                "email": "belvedere.cantal@orange.fr",
+                "site_web": "http://www.campinglebelvedere.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/212/191/36487124.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.623406,
+                    45.058734
+                ]
+            },
+            "properties": {
+                "nom": "Camping à la ferme Le Perruchet",
+                "description": "Situé au coeur du pays des volcans d'Auvergne, c'est à une altitude d'environ 900 mètres que le Camping à la ferme du Perruchet vous accueille dans la Vallée de la Jordanne.",
+                "adresse": "Le Perruchet 15590 Mandailles-Saint-Julien",
+                "telephone": "04 71 47 90 18",
+                "email": "louis.valou@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/132/2/9241220.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.419503,
+                    44.992241
+                ]
+            },
+            "properties": {
+                "nom": "Camping du Moulin",
+                "description": "Pour un agréable séjour en famille, le camping du Moulin vous accueille au cœur de la Vallée de l’Authre, vallée des poètes.",
+                "adresse": "Impasse du Moulin 15250 Jussac",
+                "telephone": "04 71 46 69 85",
+                "email": "campingmoulin@caba.fr",
+                "site_web": "https://camping.aurillacagglo.fr/fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/52/112/12873780.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.654228,
+                    45.066731
+                ]
+            },
+            "properties": {
+                "nom": "Camping du Puy Mary",
+                "description": "Venez camper au pied du Puy Mary au cœur du Massif Cantalien et le Parc Naturel Régional des Volcans d'Auvergne.",
+                "adresse": "54 Route du Puy Mary 15590 Mandailles-Saint-Julien",
+                "telephone": "06 70 98 66 48",
+                "email": "campingdupuymary@gmail.com",
+                "site_web": "http://www.camping-puymary.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/90/20470309.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.46141,
+                    44.899021
+                ]
+            },
+            "properties": {
+                "nom": "Camping de la Cère",
+                "description": "A proximité immédiate d'Aurillac.",
+                "adresse": "22 rue Félix Ramond 15130 Arpajon-sur-Cère",
+                "telephone": "06 86 39 85 75",
+                "email": "campingcere@caba.fr",
+                "site_web": "https://www.campingcere.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/38/112/12873766.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.456754,
+                    44.935155
+                ]
+            },
+            "properties": {
+                "nom": "Camping de l'Ombrade",
+                "description": "Au cœur d’un écrin de verdure très arboré à 10 minutes à pied du centre historique, le camping de l’Ombrade vous propose calme et détente au cœur de la ville.",
+                "adresse": "Rue du Gué Bouliaga 15000 Aurillac",
+                "telephone": "07 88 85 28 50",
+                "email": "campingombrade@caba.fr",
+                "site_web": "https://www.campingombrade.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/230/154/20880102.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.247083,
+                    44.912808
+                ]
+            },
+            "properties": {
+                "nom": "Camping la Presqu'île du Puech des Ouilhes",
+                "description": "Camping situé sur une presqu'île, surplombant le lac du Barrage de Saint-Etienne Cantalès, sous une pinède de pins sylvestres et de différentes essences d'arbres ; lieu idéal pour la pêche et la baignade.",
+                "adresse": ", Le Puech des Ouilhes 15150 Lacapelle-Viescamp",
+                "telephone": "04 71 46 42 38",
+                "email": "contact@cantal-camping.fr",
+                "site_web": "http://www.cantal-camping.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/7/30410575.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.57668,
+                    45.031378
+                ]
+            },
+            "properties": {
+                "nom": "Camping des Milans",
+                "description": "Le camping des Milans ouvert toute l’année est situé à Saint-Cirgues de Jordanne au cœur des montagnes du Cantal et à proximité des Gorges de la Jordanne.",
+                "adresse": ", Puech Verny 15590 Saint-Cirgues-de-Jordanne",
+                "telephone": "04 71 47 90 72",
+                "email": "puechverny@sfr.fr",
+                "site_web": "http://www.puech-verny.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/44/112/12873772.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.811536,
+                    45.116987
+                ]
+            },
+            "properties": {
+                "nom": "Camping le Vallagnon",
+                "description": "La camping est situé à 980M dans un site agréable, dans la vallée de l'Alagnon.\r\nVaste et semi-ombragé , les commerces de proximités et la piscine municipale le jouxte directement ouverte juillet et aout, nous vous offrons l'entrée.",
+                "adresse": "6 rue du Lac Glory 15300 Laveissière",
+                "telephone": "04 71 20 11 34",
+                "email": "campingdelaveissiere@orange.fr",
+                "site_web": "https://www.camping-le-vallagnon.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/16/55/37762832.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.347169,
+                    45.254679
+                ]
+            },
+            "properties": {
+                "nom": "Camping de Lavaurs",
+                "description": "Au bord de son étang, découvrez le camping de Lavaurs ombragé et calme de 12 emplacements, 5 mini chalets.",
+                "adresse": "Lavaurs, 2 rue des cerisisers 15200 Jaleyrac",
+                "telephone": "04 71 67 31 13",
+                "email": "valsaintjean@mauriac.fr",
+                "site_web": "https://www.cantalcamping.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/90/75/3033946.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.472782,
+                    45.237426
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle",
+                "description": "Aire naturelle de 30 emplacements, situé à l’entrée du charmant village de Moussages à 1 km du bourg. Branchement eau et électricité, bloc sanitaire (douches - wc), emplacements camping-car. Commerces de 1ère nécessité à 1 km.",
+                "adresse": "3 lieu-dit Les Pradoux 15380 Moussages",
+                "telephone": "04 71 40 07 68",
+                "email": "mairie-moussages@wanadoo.fr",
+                "site_web": "http://www.moussages.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/10/20318791.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.315755,
+                    45.218717
+                ]
+            },
+            "properties": {
+                "nom": "Espace de tourisme du Val Saint ****",
+                "description": "L’espace de tourisme Val Saint-Jean bénéficie d’une situation privilégiée à 1 km du centre-ville et offre un cadre exceptionnel de verdure en parfaite harmonie avec la nature et vue sur le lac.",
+                "adresse": "Val Saint-Jean 15200 Mauriac",
+                "telephone": "04 71 67 31 13",
+                "email": "valsaintjean@mauriac.fr",
+                "site_web": "https://www.cantalcamping.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/32/164/30385184.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.829816,
+                    45.079411
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal du Tir",
+                "description": "Camping ombragé en bordure de ruisseau, à 200 mètres du centre du village, au départ d'un vaste réseau d'itinéraires de randonnées balisées.",
+                "adresse": "Rue des Moulins 15300 Albepierre-Bredons",
+                "telephone": "04 71 20 02 80",
+                "email": "mairie.albepierre@wanadoo.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/138/218/2546314.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834719,
+                    45.073111
+                ]
+            },
+            "properties": {
+                "nom": "Camping à la ferme - Les Trois Pierres",
+                "description": "Camping calme et ombragé situé dans le petit village d'Albepierre. \r\nPossibilité de location de mobil homes. Appentis couvert avec barbecue.\r\nCamping-cars n'excédant pas 8 m de long autorisés, pas d'aire de vidange.",
+                "adresse": "Le bourg 15300 Albepierre-Bredons",
+                "telephone": "04 71 20 12 23",
+                "email": "campingdes3pierres@gmail.com",
+                "site_web": "https://park4night.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/13/7146930.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93441,
+                    45.154709
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle de camping de Chalinargues",
+                "description": "Aire naturelle de camping dans le petit bourg de Chalinargues.\r\n Forêt de la Pinatelle et espace Naturel sensible du Lac du Pêcher à proximité.",
+                "adresse": "Route de Ste- Anastasie, Chalinargues 15170 Neussargues-Moissac",
+                "telephone": "",
+                "email": "lechalimarie@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/203/68/3818699.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.966824,
+                    45.128886
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal La Prade",
+                "description": "Niché dans un coin de verdure, bordé par une paisible rivière, le camping municipal de la Prade propose des emplacements ombragés, des chalets 4 personnes, des mobil-homes à la location à la semaine ou au week-end. Ouvert toute l'année.",
+                "adresse": "19, route de Murat 15170 Neussargues-Moissac",
+                "telephone": "06 88 27 20 72",
+                "email": "laprade@neussargues.fr",
+                "site_web": "https://campinglapradeneussargues.jimdo.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/43/151/36542251.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8623,
+                    45.103085
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Stalapos - Réseau camping-car Park",
+                "description": "Le camping est ouvert toute l'année aux camping-cars et en haute saison (mai à septembre) aux caravanes, vans et tentes. Durant la période hivernale, le service de distribution de l'eau est coupé. Camping situé en bordure de rivière.",
+                "adresse": "Stalapos 15300 Murat",
+                "telephone": "01 83 64 69 21",
+                "email": "contact@campingcarpark.com",
+                "site_web": "https://www.campingcarpark.com/fr_FR/sejour/camping/auvergne-rhone-alpes/15-cantal/murat-camping-le-stalapos",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/1/7/12846849.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.758637,
+                    45.333788
+                ]
+            },
+            "properties": {
+                "nom": "Camping La Borie Basse",
+                "description": "Camping calme et ombragé, en bordure de rivière, à proximité de toutes commodités et activités de pleine nature.",
+                "adresse": ", 16 Caillogues 15190 Condat",
+                "telephone": "04 71 68 15 90",
+                "email": "contact@campinglaboriebasse.com",
+                "site_web": "http://www.campinglaboriebasse.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/105/114/3306089.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.939503,
+                    45.218876
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal Les Gentianes",
+                "description": "Un coin de nature calme et ombragé, lieu idéal pour un séjour randonnée ou en famille .  87 emplacements sont à votre disposition, 3 mobil homes, 1 gîte de 4 pers + 1 gîte d'étape 12 pers. Commerces à proximité.\r\nGîte d'étape ouvert à l'année.",
+                "adresse": "Pont Valat 15160 Allanche",
+                "telephone": "04 71 20 45 87",
+                "email": "camping-allanche@orange.fr",
+                "site_web": "https://campingallanche.wordpress.com/le-camping/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/249/130/36930297.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.255395,
+                    44.905831
+                ]
+            },
+            "properties": {
+                "nom": "Camping du Viaduc",
+                "description": "Camping au bord du lac de Saint-Étienne-Cantalès.\r\nGRAND REPAS CONVIVIAL AU CAMPING SAMEDI 9 MAI à 19h30.",
+                "adresse": "12 rue du Viaduc, Le Ribeyrès 15290 Le Rouget-Pers",
+                "telephone": "04 71 64 70 08",
+                "email": "campingduviaduc@wanadoo.fr",
+                "site_web": "http://www.camping-cantal.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/237/67/5063661.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.957521,
+                    44.889111
+                ]
+            },
+            "properties": {
+                "nom": "Camping naturiste La Taillade",
+                "description": "Camping naturiste au coeur des Gorges de la Truyère, dans une exploitation\r\nbiologique de 300 hectares.",
+                "adresse": "La Taillade 15260 Neuvéglise-sur-Truyère",
+                "telephone": "06 74 44 09 15",
+                "email": "",
+                "site_web": "https://leschaletsderocheglaise.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/174/37203687.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.387528,
+                    45.297515
+                ]
+            },
+            "properties": {
+                "nom": "Camping des 3 rivières",
+                "description": "Une aire naturelle sans emplacement délimité. Un havre de paix pour tous ceux qui recherche le calme, le dépaysement et le repos. Un chalet commun pour les sanitaires et des bornes électriques sont à disposition ainsi qu'un mobil-home pour 6.",
+                "adresse": "Vendes 15240 Bassignac",
+                "telephone": "06 40 73 31 35",
+                "email": "gilles.eisenschreiber@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/61/121/34437437.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.978555,
+                    44.924004
+                ]
+            },
+            "properties": {
+                "nom": "Camping Sérendipité ***",
+                "description": "Camping éco-responsable, dog-friendly, calme et à taille humaine, pour vous ressourcer avec une sublime vue sur la vallée.\r\n34 emplacements de camping et 12 locatifs dont 9 cabanes, 1 grand chalet  et 2 Pods insolites.",
+                "adresse": "4 impasse Fontbielle 15260 Neuvéglise-sur-Truyère",
+                "telephone": "04 71 73 91 77",
+                "email": "contact@camping-serendipite.fr",
+                "site_web": "http://www.camping-serendipite.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/190/26/41360062.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.051779,
+                    45.221908
+                ]
+            },
+            "properties": {
+                "nom": "Camping à la Ferme - Les Carlines",
+                "description": "Niché sur le plateau du Cézallier, avec vue panoramique sur la vallée de l'Alagnon, ce camping à la ferme classé 1 étoile Gîte de France vous accueille dans un espace naturel préservé. Deux chalets, un mobil-home en location et trois emplacements nus.",
+                "adresse": "Vazeille 15170 Peyrusse",
+                "telephone": "06 50 71 23 36",
+                "email": "brugiere.xavier@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/5/12846587.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.049165,
+                    45.177938
+                ]
+            },
+            "properties": {
+                "nom": "Camping municipal les Vigeaires",
+                "description": "Le Camping de mon Village de Ferrières-Saint-Mary (15) dispose de 66 emplacements électrifiés et des services : vidange, eau, wifi. Des sanitaires sont ouverts du 27/05 au 30/09. L'aire est ouverte toute l'année, 24h/24.",
+                "adresse": "Lieu-dit Pradet, RN 122 15170 Ferrières-Saint-Mary",
+                "telephone": "04 71 20 61 88",
+                "email": "contact@campingcarpark.com",
+                "site_web": "https://www.hautesterrestourisme.fr/fr/fiche/hotellerie-plein-air/camping-municipal-les-vigeaires-ferrieres-saint-mary_TFO5984145/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/43/16853813.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.787283,
+                    45.280718
+                ]
+            },
+            "properties": {
+                "nom": "Camping La Santoire",
+                "description": "Le Camping de la Santoire, classé 3 étoiles, se situe dans le village de Saint Bonnet de Condat et est ouvert toute l'année. Le site comporte 22 emplacements de camping ( environ 80m² / emplacement), une cabane, 4 chalets et 2 mobil-homes.",
+                "adresse": "19 rue des Rochers 15190 Saint-Bonnet-de-Condat",
+                "telephone": "04 71 68 88 71",
+                "email": "dennisjellers@gmail.com",
+                "site_web": "https://www.campinglasantoire.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/219/45/25570779.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793903,
+                    45.383046
+                ]
+            },
+            "properties": {
+                "nom": "Camping chez de Vergne",
+                "description": "Accueil d’une vingtaine de campeurs, dont 2 emplacements pour vans aménagés (chassis max.5m20).",
+                "adresse": "6 chez de Vergne 15190 Chanterelle",
+                "telephone": "06 86  81 09 23",
+                "email": "patrice.thissen@yahoo.fr",
+                "site_web": "http://www.chezdevergne.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/172/17345764.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918399,
+                    45.113495
+                ]
+            },
+            "properties": {
+                "nom": "Camping au Moulin de Gaspard",
+                "description": "Verger aménagé pour proposer quatre emplacements plats et ombragés pour poser une tente (inaccessibles en voiture), deux emplacements véhicules aménagés et une yourte. Petit bloc sanitaire composé d’une douche, d’un lavabo et d’une toilette sèche.",
+                "adresse": "3 Route du Vieux Four- Gaspard 15300 La Chapelle-d'Alagnon",
+                "telephone": "06 45 65 67 39",
+                "email": "revarium15@proton.me",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/114/31421092.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.309943,
+                    45.075568
+                ]
+            },
+            "properties": {
+                "nom": "Le moulin des 13 vents",
+                "description": "Camping pour 25 personnes à SAINT-MARTIN-CANTALES",
+                "adresse": "1 chemin de la Vige 15140 Saint-Martin-Cantalès",
+                "telephone": "06 98 64 99 04",
+                "email": "nick@lemoulindes13vents.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.22899,
+                    44.935703
+                ]
+            },
+            "properties": {
+                "nom": "Parc résidentiel du Domaine du Lac",
+                "description": "Situé au bord du lac de Saint-Étienne-Cantalès, le Parc résidentiel du Domaine du Lac vous propose des mobile homes et des chalets en location sur de grands emplacements (300 m²) avec un accès direct au lac.",
+                "adresse": ", 7 route de la Presqu'île 15150 Saint-Gérons",
+                "telephone": "04 71 62 27 98",
+                "email": "prldomainedulac@gmail.com",
+                "site_web": "http://www.prl-domainedulac.fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/77/26496452.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.526704,
+                    45.098026
+                ]
+            },
+            "properties": {
+                "nom": "Camping LA FEINA",
+                "description": "Le camping de l’association La Feina s'étend sur plus d'un hectare d’aire naturelle et peut accueillir une vingtaine de personnes sous tentes ou habitats légers. Il est situé à 950m d’altitude.",
+                "adresse": ", Le Puy Basset 15140 Fontanges",
+                "telephone": "09 72 25 75 34",
+                "email": "contact@lafeina.lautre.net",
+                "site_web": "https://lafeina.lautre.net/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.109155,
+                    45.051618
+                ]
+            },
+            "properties": {
+                "nom": "Camping Roche-Murat - CAMPING CAR PARK",
+                "description": "Aire de services camping-car et location de chalets. Situé à 1,5 km de la ville basse de Saint-Flour et à 3 km du centre historique, dans un site agréable et arboré avec vue imprenable sur la cité médiévale de Saint-Flour . Pas d'emplacement nu.",
+                "adresse": "Saint-Flour Ville basse, RN9 15100 Saint-Flour",
+                "telephone": "01 83 64 69 21",
+                "email": "camping@saint-flour.net",
+                "site_web": "https://camping-saint-flour.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/99/25/37951843.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.611917,
+                    44.874656
+                ]
+            },
+            "properties": {
+                "nom": "Aire naturelle de l'auberge de la Sapinière",
+                "description": "Aire naturelle, camping-cars bienvenus, accès sanitaires, jeux pour enfants",
+                "adresse": "Le bourg 15130 Cros-de-Ronesque",
+                "telephone": "06 09 97 82 33",
+                "email": "rourejl@aol.com",
+                "site_web": "https://auberge-sapiniere-cantal.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/59/100/35939387.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.942255,
+                    45.183701
+                ]
+            },
+            "properties": {
+                "nom": "Camping à la Ferme - Ferme des Gardes",
+                "description": "Camping à la ferme :Gaec des gardes, chez Alexandra,JP et Flo. Sur place  : charcuterie, viande bœuf et porc, œufs. Tous les produits viennent de la ferme qui est qualifiée HVE (Haute Valeur Environnementale).",
+                "adresse": "Nuits 15170 Chalinargues",
+                "telephone": "06 72 60 55 12",
+                "email": "lannez15@orange.fr",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/24/152/42178584.jpg"
+            }
+        }
+    ]
 }
