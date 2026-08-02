@@ -1,0 +1,936 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.870566,
+                    45.344221
+                ]
+            },
+            "properties": {
+                "nom": "Gite d'Étape de Montgreleix",
+                "description": "Ancienne école rénovée se trouvant sur la plus haute commune du Cantal, vue panoramique sur le Sancy et le plomb du Cantal.",
+                "adresse": "",
+                "telephone": "06 95 73 39 73",
+                "email": "lamotte.elisabeth@hotmail.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666609,
+                    45.282015
+                ]
+            },
+            "properties": {
+                "nom": "Gîte Hip Hop / Rock / Jazz espace camping",
+                "description": "Au cœur du camping , 3 gîtes collectifs et une capacité de 46 pers pouvant être complété par deux autres de 20 pers permettent l'accueil de groupe. Salle de restauration associée permettant les séjours en autonomie/ Demie pension ou PC",
+                "adresse": "",
+                "telephone": "09 67 78 05 71",
+                "email": "lesedour15@gmail.com",
+                "site_web": "http://campingitesriomcantal.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666501,
+                    45.281771
+                ]
+            },
+            "properties": {
+                "nom": "Gîte Dali Klimt",
+                "description": "Bâtiment d'une capacité totale de 20 couchages répartis en six chambres. Salle collective. Accueil groupe et stages sportifs. Possibilité de pension complète ou en gestion libre.",
+                "adresse": "",
+                "telephone": "09 67 78 05 71",
+                "email": "lesedour15@gmail.com",
+                "site_web": "http://campingitesriomcantal.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.76124,
+                    45.288086
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape de Lugarde",
+                "description": "Situé sur le GR 4 et le GTVA",
+                "adresse": "",
+                "telephone": "04 71 78 40 15",
+                "email": "mairie.lugarde@wanadoo.fr",
+                "site_web": "http://www.lugarde.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.370545,
+                    45.109417
+                ]
+            },
+            "properties": {
+                "nom": "Le Grand Gîte - Moments Nature",
+                "description": "« Le Grand Gîte » est une ancienne grange auvergnate rénovée  offrant 15 chambres (2/6 pers) avec pierres apparentes. Salle à manger avec grand cantou et poêle à bois et vue sur la vallée...",
+                "adresse": "",
+                "telephone": "04 71 69 44 28",
+                "email": "moments.nature@gmail.com",
+                "site_web": "http://www.momentsnature.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.684643,
+                    44.950829
+                ]
+            },
+            "properties": {
+                "nom": "Les Flocons Verts",
+                "description": "Pailherols est une étape incontournable pour des activités de pleine nature : randonnées pédestres (PR et GR 465), ski de fond, VTT.\r\nLe gîte est composé de 9 chambres et d'une salle de vie spacieuse avec 2 coins salons aménagés. cuisine équipée.",
+                "adresse": "",
+                "telephone": "04 71 47 56 67",
+                "email": "flocons.verts@orange.fr",
+                "site_web": "http://www.pailherols-flocons-verts.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.622573,
+                    44.921584
+                ]
+            },
+            "properties": {
+                "nom": "Les Herbages",
+                "description": "Situé à 950m, dans un espace préservé, le gîte d’étape Les Herbages vous accueille dans le cadre de randonnées pédestres ou équestres, séjours en famille. Confort, calme, équipement complet.",
+                "adresse": "",
+                "telephone": "04 71 47 40 73",
+                "email": "badailhac.mairie@wanadoo.fr",
+                "site_web": "https://www.mairiedebadailhac.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.987352,
+                    45.091442
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de groupe Chantarisa",
+                "description": "Gîte de groupes rénové de 104 lits (Gîte d’étape, de séjour et de groupes). Situé dans le village de Coltines, à 20 mn du Massif volcanique du Cantal, de la station du Lioran et du site nordique de Prat de Bouc.",
+                "adresse": "",
+                "telephone": "04 71 73 25 83",
+                "email": "chantarisa@orange.fr",
+                "site_web": "http://www.chantarisa.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.251695,
+                    45.012455
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de groupe de l'auberge Les Volpilières",
+                "description": "A moins de 10 minutes de l’A75, le gîte «les Volpilières» est situé dans un petit village très calme en lisière de la forêt de la Margeride à 1050 m d’altitude. Chambres récentes, tout confort avec douches et WC, spacieuses dans un cadre traditionnel.",
+                "adresse": "",
+                "telephone": "04 71 23 48 31",
+                "email": "lombard.jean-luc@wanadoo.fr",
+                "site_web": "http://www.lesvolpilieres-gite.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219652,
+                    45.001145
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de groupe Les Aygues",
+                "description": "Un hébergement de charme dans un ancien corps de ferme, avec tout le confort apporté par d'importants travaux de restauration réalisés en 2018.\r\nGîte de groupe ouvert toute l’année (65 lits) dont 10 lits en gîte indépendant.",
+                "adresse": "",
+                "telephone": "04 71 73 25 83",
+                "email": "chantarisa@orange.fr",
+                "site_web": "http://www.chantarisa.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.108454,
+                    45.276455
+                ]
+            },
+            "properties": {
+                "nom": "Gite d'étape et de séjour de Laurie",
+                "description": "Gite de groupe communal, au pied du Cézallier, équipé de deux dortoirs : un dortoir avec six couchages et un dortoir avec huit couchages. Sanitaires et cuisine à disposition. + 2 salles de bain privative indépendantes.",
+                "adresse": "",
+                "telephone": "06 21 60 03 84",
+                "email": "laurie36@orange.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04832,
+                    45.046875
+                ]
+            },
+            "properties": {
+                "nom": "Ferme Le Ruisselet - gîte de groupes",
+                "description": "Gîte de Séjour, capacité 15 personnes dans une belle grange de 1870, entièrement rénovée.- Tables d'hôtes possible.",
+                "adresse": "",
+                "telephone": "04 71 60 11 33",
+                "email": "le-ruisselet@wanadoo.fr",
+                "site_web": "http://www.ferme-le-ruisselet.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.620003,
+                    45.153187
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape du Falgoux",
+                "description": "Situé à 920m d'altitude dans le terrain de camping du village, en bordure de rivière, le gîte est installé dans un lieu de verdure, calme et cerné de montagnes.",
+                "adresse": "",
+                "telephone": "04 71 69 51 28",
+                "email": "mairie.lefalgoux@wanadoo.fr",
+                "site_web": "http://www.lefalgoux.fr/camping-gite-communal-mairie-falgoux-cantal_fr.html",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.584244,
+                    45.101655
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape du Fau",
+                "description": "Couchage 25 personnes. Proximité Puy Violent et Puy Chavaroche.",
+                "adresse": "",
+                "telephone": "06 76 40 98 82",
+                "email": "aubergedufau@orange.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.32773,
+                    45.307756
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de séjour 15 personnes",
+                "description": "Pour un séjour au calme, dans l'ancienne école du village, en surplomb de la haute-vallée de la Dordogne,découvrez un gîte sur deux niveaux qui offre un hébergement modulable, de très bon confort pouvant accueillir 15 personnes.",
+                "adresse": "",
+                "telephone": "04 71 69 70 64",
+                "email": "mairie.arches@wanadoo.fr",
+                "site_web": "http://www.arches.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.554256,
+                    45.045173
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d 'Etape de la Croix de Cheules",
+                "description": "L’Auberge de La Croix de Cheules vous propose à l’étage son gîte d’étape au coeur des Monts du Cantal d’une surface de 120 m² et d’une capacité d’accueil de 14 personnes.",
+                "adresse": "",
+                "telephone": "",
+                "email": "lacroixdecheules@gmail.com",
+                "site_web": "https://www.gitecantal.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.697144,
+                    45.015662
+                ]
+            },
+            "properties": {
+                "nom": "Gîte Ely LAFON",
+                "description": "Gîte idéal pour toutes activités de pleine nature : randonnée, balade, VTT, raquettes, parapente.\r\nSitué sur la Via Arverna, chemin de St Jacques de Compostelle (Clermont Ferrand-Cahors), sur la boucle du GR400 vallée de la Cère et sur le GRP du Carladès.",
+                "adresse": "",
+                "telephone": "06 65 35 36 41",
+                "email": "contact@gite-ely-lafon.fr",
+                "site_web": "https://gite-ely-lafon.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.579372,
+                    45.070364
+                ]
+            },
+            "properties": {
+                "nom": "Caldera hébergements & activités d'altitude",
+                "description": "Maison de montagne située à 1231 mètres d'altitude au Col de Légal à proximité du GR400. L'établissement dispose de 17 chambres individuelles entièrement équipées, avec toilettes et salle de bain privative.",
+                "adresse": "",
+                "telephone": "09 70 03 08 72",
+                "email": "mycantal@gmail.com",
+                "site_web": "https://www.caldera-hebergement-coldelegal.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.785646,
+                    45.158219
+                ]
+            },
+            "properties": {
+                "nom": "Gîte des Quirous",
+                "description": "Le gîte des quirous est composé de 13 chambres, un salon TV wifi, une cuisine et uen salle de restauration, pour un total de 38 places",
+                "adresse": "",
+                "telephone": "06 98 97 48 99",
+                "email": "gitedesquirous@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.739323,
+                    45.125277
+                ]
+            },
+            "properties": {
+                "nom": "La Boudio",
+                "description": "Le gite d'étape la Boudio est situé au départ des sentiers de randonnée, au calme en bordure de rivière. Le gite est équipé d'un dortoir et de 8 chambres et 3 suites. Sanitaires privatifs. Cuisine familiale et de qualité.",
+                "adresse": "",
+                "telephone": "04 71 20 81 87",
+                "email": "gitelaboudio@gmail.com",
+                "site_web": "http://www.gite-laboudio.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.78599,
+                    45.158148
+                ]
+            },
+            "properties": {
+                "nom": "Gite Petit Quirous",
+                "description": "Gite d'étape communal équipé de deux dortoirs (l'un de quatre lits superposés, l'autre de huit lits superposés), de sanitaires et d'une cuisine en gestion libre.",
+                "adresse": "",
+                "telephone": "06 98 97 48 99",
+                "email": "gitedesquirous@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.830317,
+                    45.304637
+                ]
+            },
+            "properties": {
+                "nom": "Gite d'étape communal de l'école de Marcenat",
+                "description": "Gite d'étape communal en gestion libre équipé de quatre chambres (de deux lits chacune), sanitaires, salle commune et coin cuisine.",
+                "adresse": "",
+                "telephone": "04 71 40 72 77",
+                "email": "marcenat.mairie@wanadoo.fr",
+                "site_web": "http://www.marcenat15.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.668019,
+                    45.021979
+                ]
+            },
+            "properties": {
+                "nom": "Ferme de Trielle",
+                "description": "A 1100 m d'altitude dans le Cantal aux alentours de Thiézac, si vous cheminez sur le GR400 vous passerez certainement devant, à mille lieux d'imaginer que cette ferme  auvergnate accueille aussi depuis 40 ans tout un monde de formations artistiques.",
+                "adresse": "",
+                "telephone": "04 71 47 01 64",
+                "email": "trielle@wanadoo.fr",
+                "site_web": "http://trielle.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.004582,
+                    44.697677
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape PEP - Saint-Urcize en Aubrac",
+                "description": "Au cœur de l'Aubrac Cantalien, notre gîte d’étape vous accueille pour une nuit ou plus, que vous soyez en solo, en famille ou en groupe. Pour les amateurs de sports d’hiver, le domaine skiable se trouve à 3km, n’hésitez pas à nous contacter pour réserver!",
+                "adresse": "",
+                "telephone": "04 71 23 20 62",
+                "email": "sturcize@pep15.fr",
+                "site_web": "https://pep15.fr/saint-urcize/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.753356,
+                    45.344454
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d’étape et de groupe de la Borie de Pourtou",
+                "description": "Gîte d’étape et de groupe de la Borie de Pourtou sur le GR4 dans le nord Cantal. Gestion libre possible.",
+                "adresse": "",
+                "telephone": "07 49 18 26 81",
+                "email": "laboriedepourtou@gmail.com",
+                "site_web": "http://gite-laboriedepourtou-cantal.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.929691,
+                    45.05371
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape de Valuéjols",
+                "description": "Gîte d'étape et de séjour à Valuéjols, commune typique de la planèze de Saint-Flour.",
+                "adresse": "",
+                "telephone": "04 71 73 23 71",
+                "email": "mairie.valuejols@orange.fr",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827192,
+                    45.306355
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape communal de la Poste de Marcenat",
+                "description": "Gîte d'étape en gestion libre résolument \"Vintage\" (mobilier récup d'un bar américain) entièrement rénové. Cinq chambres : une chambre homologuée pour personne handicapée (avec un lit accompagnant). Quatre chambres de 2 ou 3 personnes avec lits 90.",
+                "adresse": "",
+                "telephone": "04 71 40 72 77",
+                "email": "marcenat.mairie@wanadoo.fr",
+                "site_web": "http://www.marcenat15.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.576759,
+                    45.031455
+                ]
+            },
+            "properties": {
+                "nom": "Refuge de Brézellec",
+                "description": "Ce refuge de 4 personnes se situe dans la belle vallée de la Jordanne, dans les montagnes du Cantal, sur la route du Puy Mary.",
+                "adresse": "",
+                "telephone": "04 71 47 90 72",
+                "email": "puechverny@sfr.fr",
+                "site_web": "http://www.puech-verny.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.657111,
+                    45.067943
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape et de séjour Vert Azur",
+                "description": "Gîte d\"étape sur le GR400. Il a été pensé pour l'accueil de sportifs et de groupes en toutes saisons. Il est doté d'un confort et d'un espace permettant le repos, la récupération, la rencontre et la convivialité. Venez y séjourner, vous comprendrez... !",
+                "adresse": "",
+                "telephone": "04 71 47 93 81",
+                "email": "vert.azur@orange.fr",
+                "site_web": "https://www.gite-vertazur.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.206495,
+                    44.716475
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de groupe - Lou Castanhaïre (Le Châtaignier)",
+                "description": "Parfait pour les groupes et les rassemblements familiaux, ce gîte offre 14 couchages répartis dans 4 chambres grand confort, chacune avec sa salle de bains individuelle.",
+                "adresse": "",
+                "telephone": "04 71 46 75 04",
+                "email": "henri@hotrestocruzel.fr",
+                "site_web": "https://www.hotel-cruzel.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.677062,
+                    45.029435
+                ]
+            },
+            "properties": {
+                "nom": "Le Clou - Gite d'étape",
+                "description": "Situé sur le GR400, ce gite d'étape typique propose 3 lits simples avec sanitaires et douche à l'extérieur. Sont mis à disposition : frigidaire, four micro-onde, plaque de cuisson, vaisselle).",
+                "adresse": "",
+                "telephone": "06 17 35 25 33",
+                "email": "info@leclou-france.fr",
+                "site_web": "http://www.leclou-france.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.924431,
+                    45.269668
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape Le Pousadou",
+                "description": "Gîte d'étape  pour 6 à 8 personnes sur la randonnée du Tour des Vaches rouges.",
+                "adresse": "",
+                "telephone": "04 71 20 90 19",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82957,
+                    45.304461
+                ]
+            },
+            "properties": {
+                "nom": "Gîte équestre de Marcenat",
+                "description": "Gîte équestre situé à Marcenat. accueil des randonneurs et des randonneurs à cheval. Gîte entièrement rénové à proximité moyenne surface \"Intermarché\".",
+                "adresse": "",
+                "telephone": "04 71 40 72 77",
+                "email": "marcenat.mairie@wanadoo.fr",
+                "site_web": "http://www.marcenat15.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.189471,
+                    44.968276
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de groupe de Laroquebrou",
+                "description": "Gîte de groupe de 13 couchages aménagé dans un ancien presbytère, propriété de la commune.",
+                "adresse": "",
+                "telephone": "04 71 46 00 48",
+                "email": "mairie@laroquebrou.fr",
+                "site_web": "http://www.laroquebrou.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.710438,
+                    45.150297
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape et de Séjour du Puy-Mary",
+                "description": "Le gîte d’étape du Puy Mary \r\n\r\nune étape entre paysages sans pareil et activités sportives",
+                "adresse": "",
+                "telephone": "04 71 78 34 84",
+                "email": "contact@giteetapedupuymary.fr",
+                "site_web": "http://www.giteetapedupuymary.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021465,
+                    44.724287
+                ]
+            },
+            "properties": {
+                "nom": "Gîte \"Les Cailloux\"",
+                "description": "Une maison chaleureuse, pour 12 personnes, au cœur du plateau de l'Aubrac.  Très moderne la maison a gardé son charme avec son style du 19e siècle. Excellente pour des vacances en famille et entre amis, repos assuré grâce à son calme et son grand jardin.",
+                "adresse": "",
+                "telephone": "06 65 78 19 78",
+                "email": "les.cailloux15@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007107,
+                    44.820863
+                ]
+            },
+            "properties": {
+                "nom": "La Maison de Gilbert - Gîte de groupe",
+                "description": "Gîte pour les groupes pouvant accueillir jusqu'à 14 personnes maximum, parfait pour les vins d'honneur, enterrement de vie de jeune fille / garçon, repas de famille, anniversaires, cousinades, Noël, Jour de l'An...",
+                "adresse": "",
+                "telephone": "06 60 07 27 51",
+                "email": "rocherbeat@gmail.com",
+                "site_web": "http://lamaisondegilbert.strikingly.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.95038,
+                    44.809435
+                ]
+            },
+            "properties": {
+                "nom": "Le Moulin des Templiers - Gîte de groupe",
+                "description": "Gîte de groupe jusqu'à 12 personnes situé aux portes de l’Aubrac, à 10 km de Chaudes-Aigues en direction de Laguiole, à l’écart de la route.",
+                "adresse": "",
+                "telephone": "07 85 48 89 40",
+                "email": "simonephilippe15@orange.fr",
+                "site_web": "https://www.lemoulindestempliers.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.583543,
+                    44.806884
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape vélo rando",
+                "description": "Le gîte communal de Vezels-Roussy, au sud-ouest du Cantal , vous accueille pour une nuit ou un séjour, seul, en famille ou entre amis, à la découverte du sud cantal et de l’Aveyron de leurs vallées et leurs montagnes.",
+                "adresse": "",
+                "telephone": "04 71 49 43 47",
+                "email": "mairie.vezelsroussy@wanadoo.fr",
+                "site_web": "https://velorandocantal.wixsite.com/gite",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666055,
+                    45.015652
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape Par Monts et Cantal",
+                "description": "Niché sur les hauteurs de Thiézac à 830m d'altitude avec accès direct sur le GR400, mon gîte d'étape vous accueillera dans un cadre chaleureux et familial avec vue sur les Monts du Cantal.",
+                "adresse": "",
+                "telephone": "06 72 95 68 97",
+                "email": "giteparmontsetcantal@gmail.com",
+                "site_web": "https://www.giteparmontsetcantal.fr",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.792883,
+                    45.05248
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape au Col de Prat de Bouc - Plomb du Cantal",
+                "description": "Ce gite sur le GR400, GR4 , GTMC accueille randonneurs, vététistes, cyclo sportifs, cavaliers et propose sa formule demi-pension en Buron, pique-nique...",
+                "adresse": "",
+                "telephone": "07 52 07 75 85",
+                "email": "lagrangedesroches@gmail.com",
+                "site_web": "https://www.gite-pratdebouc.com/gite-etape-ete-prat-bouc-cantal_fr.html",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938997,
+                    45.219069
+                ]
+            },
+            "properties": {
+                "nom": "Gite d'étape communal d'Allanche",
+                "description": "Gîte d'étape d'une capacité de 12 personnes au dessus de l'accueil du camping. 1 dortoir de 6 places et 3 chambres de 2 personnes\r\nTout confort. Hébergement sur le tour des vaches rouges OUVERT A L'ANNEE",
+                "adresse": "",
+                "telephone": "04 71 20 45 87",
+                "email": "camping-allanche@orange.fr",
+                "site_web": "https://campingallanche.wordpress.com/le-gite-detape/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.113753,
+                    45.277961
+                ]
+            },
+            "properties": {
+                "nom": "Jean Marc Morel - Gite étape",
+                "description": "Maison individuelle dans un petit village de 7 maisons habitées",
+                "adresse": "",
+                "telephone": "",
+                "email": "jm.morel47@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.715865,
+                    45.058471
+                ]
+            },
+            "properties": {
+                "nom": "La Grange du Devezou",
+                "description": "Amateurs de calme et de plein air, la Grange du Dévezou, située à St Jacques des Blats (7 km du Lioran) au coeur du parc des Volcans d'Auvergne, vous offre un accès privilégié à la montagne.",
+                "adresse": "",
+                "telephone": "06 82 89 93 10",
+                "email": "lagrangedudevezou@gmail.com",
+                "site_web": "https://www.lagrangedudevezou.com",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.209279,
+                    44.714942
+                ]
+            },
+            "properties": {
+                "nom": "Gîte de Groupe Saint-Estèfe",
+                "description": "Avec ses 16 couchages, intégrant 2 modules d'hébergement de 8 couchages chacun, deux salles de bains, une partie commune équipée d'une cuisine, une salle à manger et un espace détente pour se relaxer,",
+                "adresse": "",
+                "telephone": "04 71 46 75 04",
+                "email": "henri@hotrestocruzel.fr",
+                "site_web": "https://www.hotel-cruzel.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.933406,
+                    45.154494
+                ]
+            },
+            "properties": {
+                "nom": "Chali Marie",
+                "description": "Gite d' étape de groupe pouvant accueillir 30 personnes idéal pour les réunions de famille, les colonies, les groupes.",
+                "adresse": "",
+                "telephone": "06 99 53 53 72",
+                "email": "lechalimarie@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.178515,
+                    44.970442
+                ]
+            },
+            "properties": {
+                "nom": "Domaine du Viaduc",
+                "description": "Venez découvrir le Domaine du Viaduc à Garabit, son Bar, son restaurant et gite vous attendent dans un lieu calme chargé d'histoire.",
+                "adresse": "",
+                "telephone": "07 81 40 22 40",
+                "email": "domaineduviaduc15@hotmail.com",
+                "site_web": "https://www.domaineduviaduc.fr/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666808,
+                    45.080106
+                ]
+            },
+            "properties": {
+                "nom": "Gîte d'étape de Revel",
+                "description": "Gîte nature 4 personnes à Mandailles-Saint-Julien – Vue imprenable sur les monts du Cantal.",
+                "adresse": "",
+                "telephone": "0662046358",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.300979,
+                    44.739845
+                ]
+            },
+            "properties": {
+                "nom": "Auberge de Leynhac",
+                "description": "À l'auberge de Leynhac, dans le centre du village, location de chambre pour deux personnes avec salle de douches et WC, salle commune avec coin repos et cuisine toute équipée (micro-onde, frigo, bouilloire, machine à café, plaque de cuisson, vaisselle).",
+                "adresse": "",
+                "telephone": "04 71 49 04 92",
+                "email": "",
+                "site_web": "",
+                "photo": ""
+            }
+        }
+    ]
+}
