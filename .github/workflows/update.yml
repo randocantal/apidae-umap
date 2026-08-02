@@ -1,8 +1,8 @@
 name: Mise a jour Apidae
 on:
   schedule:
-    - cron: '0 2 * * *' # S'exécute toutes les nuits à 2h
-  workflow_dispatch: # Permet de le lancer manuellement
+    - cron: '0 2 * * *'
+  workflow_dispatch:      # Force l'apparition du bouton manuel
 
 jobs:
   build:
@@ -22,5 +22,5 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add hebergements_cantal.geojson
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Maj automatique" && git push)
+        git add *.geojson
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Maj automatique" && git push origin HEAD)
