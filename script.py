@@ -3,7 +3,7 @@ import os
 import requests
 
 # 1. Endpoint officiel APIDAE v002 pour les listes
-API_URL = "https://apidae-tourisme.com"
+API_URL = "https://api.apidae-tourisme.com/api/v002/recherche/list-objets-touristiques"
 API_KEY = os.environ.get("APIDAE_KEY")
 PROJECT_ID = os.environ.get("APIDAE_PROJECT_ID")
 
@@ -51,15 +51,15 @@ def extract_photo(obj):
     """Extraction exacte de l'URL de l'image (Premier élément de la liste traductionFichiers)."""
     illustrations = obj.get("illustrations", [])
     if illustrations and len(illustrations) > 0:
-        first_illus = illustrations[0] # Premier dictionnaire d'illustration
+        first_illus = illustrations[0] # On extrait le premier dictionnaire d'illustration
         
         # En V002, traductionFichiers est TOUJOURS une liste de dictionnaires
         trad_fichiers = first_illus.get("traductionFichiers", [])
         if trad_fichiers and len(trad_fichiers) > 0:
-            # RÈGLE V002 STRICTE : On extrait le dictionnaire à l'index 0 de la liste
+            # CORRECTION : On cible le dictionnaire à l'index 0 de la liste pour lire l'url
             return trad_fichiers[0].get("url", "")
             
-        # Sécurités de secours
+        # Sécurités de secours si format de secours utilisé par la fiche
         if "url" in first_illus:
             return first_illus.get("url", "")
         traduc = first_illus.get("traductionMetadonnees", {})
