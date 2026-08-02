@@ -2,12 +2,11 @@ import json
 import os
 import requests
 
-# 1. Endpoint officiel APIDAE v002 pour les listes
-API_URL = "https://api.apidae-tourisme.com/api/v002/recherche/list-objets-touristiques"
+# 1. Configuration officielle APIDAE v002
+API_URL = "https://apidae-tourisme.com"
 API_KEY = os.environ.get("APIDAE_KEY")
 PROJECT_ID = os.environ.get("APIDAE_PROJECT_ID")
 
-# 2. Vos 6 sélections d'hébergements (Remplacez les numéros par vos vrais ID Apidae)
 CATEGORIES = {
     "hotels": {"id_selection": 111111, "features": []},
     "campings": {"id_selection": 222222, "features": []},
@@ -22,7 +21,7 @@ def clean_html(text):
     return text.replace("<br>", "\n").replace("<br/>", "\n")
 
 def get_adresse(obj):
-    """Extraction exacte de l'adresse imbriquée en Apidae V002."""
+    """Extraction exacte et sécurisée de l'adresse en Apidae V002."""
     localisation = obj.get("localisation", {})
     adresse_obj = localisation.get("adresse", {})
     
@@ -48,23 +47,20 @@ def extract_contacts(obj):
     return tel, email, web
 
 def extract_photo(obj):
-    """Extraction exacte de l'URL de l'image (Premier élément de la liste traductionFichiers)."""
+    """Extraction exacte de l'URL de l'image en V002 via traductionFichiers."""
     illustrations = obj.get("illustrations", [])
-    if illustrations and len(illustrations) > 0:
+    if isinstance(illustrations, list) and len(illustrations) > 0:
         first_illus = illustrations[0] # On extrait le premier dictionnaire d'illustration
         
-        # En V002, traductionFichiers est TOUJOURS une liste de dictionnaires
+        # En V002, traductionFichiers est une liste (tableau) de dictionnaires
         trad_fichiers = first_illus.get("traductionFichiers", [])
-        if trad_fichiers and len(trad_fichiers) > 0:
-            # CORRECTION : On cible le dictionnaire à l'index 0 de la liste pour lire l'url
+        if isinstance(trad_fichiers, list) and len(trad_fichiers) > 0:
+            # On prend le premier fichier disponible de la liste
             return trad_fichiers[0].get("url", "")
             
-        # Sécurités de secours si format de secours utilisé par la fiche
+        # Sécurités si la fiche utilise une ancienne structure
         if "url" in first_illus:
             return first_illus.get("url", "")
-        traduc = first_illus.get("traductionMetadonnees", {})
-        if isinstance(traduc, dict):
-            return traduc.get("url", "")
     return ""
 
 def interroger_apidae(id_selection):
@@ -90,7 +86,6 @@ def main():
         return
 
     for name_key, info in CATEGORIES.items():
-        print(f"Extraction Apidae V002 -> {name_key}...")
         objets = interroger_apidae(info["id_selection"])
         
         for obj in objets:
