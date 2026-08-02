@@ -48,17 +48,17 @@ def extract_contacts(obj):
     return tel, email, web
 
 def extract_photo(obj):
-    """Extraction exacte selon la structure officielle traductionFichiers d'Apidae V002."""
+    """Extraction exacte de l'URL de l'image dans le sous-tableau traductionFichiers."""
     illustrations = obj.get("illustrations", [])
     if illustrations and len(illustrations) > 0:
-        first_illus = illustrations[0] # Première image d'illustration
+        first_illus = illustrations[0] # Premier dictionnaire d'illustration
         
-        # Structure V002 : l'URL est dans la liste 'traductionFichiers'
+        # En V002, traductionFichiers est TOUJOURS une liste [0]
         trad_fichiers = first_illus.get("traductionFichiers", [])
         if trad_fichiers and len(trad_fichiers) > 0:
             return trad_fichiers[0].get("url", "")
             
-        # Sécurités alternatives si format de secours
+        # Sécurités de secours
         if "url" in first_illus:
             return first_illus.get("url", "")
         traduc = first_illus.get("traductionMetadonnees", {})
