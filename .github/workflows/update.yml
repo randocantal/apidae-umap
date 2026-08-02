@@ -1,0 +1,26 @@
+name: Mise a jour Apidae
+on:
+  schedule:
+    - cron: '0 2 * * *' # S'exécute toutes les nuits à 2h
+  workflow_dispatch: # Permet de le lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - run: pip install requests
+    - name: Executer le script
+      env:
+        APIDAE_KEY: ${{ secrets.APIDAE_KEY }}
+        APIDAE_PROJECT_ID: ${{ secrets.APIDAE_PROJECT_ID }}
+      run: python script.py
+    - name: Enregistrer les modifications
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add hebergements_cantal.geojson
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Maj automatique" && git push)
