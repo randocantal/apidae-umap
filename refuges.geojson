@@ -1,43 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.783338,
-                    45.027995
-                ]
-            },
-            "properties": {
-                "nom": "Les burons de la Tagadure - 22 personnes",
-                "description": "Refuge de montagne, avec la magie d’un buron qui a su conserver son âme en cédant au raffinement du confort d’aujourd’hui. Choix entre le buron 16 pers., celui de 6 pers. ou le domaine complet. Du 15/11 au 31/03, location avec un guide professionnel.",
-                "adresse": "",
-                "telephone": "06 83 78 07 19",
-                "email": "martine.deconquand@gmail.com",
-                "site_web": "https://www.burons-tagadure.fr/",
-                "photo": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.723966,
-                    45.096716
-                ]
-            },
-            "properties": {
-                "nom": "Le Refuge de Meije Costes",
-                "description": "Dominant la station du Lioran, lové sur un promontoire sous la protection du Téton de Venus ce petit refuge de montagne,  ancien buron, a pour vocation aujourd'hui, d'accueillir tous les passagers des cimes.",
-                "adresse": "",
-                "telephone": "06 35 33 59 25",
-                "email": "refugedemeijecostes@gmail.com",
-                "site_web": "http://refuge-meijecoste.over-blog.com/",
-                "photo": ""
-            }
-        }
-    ]
+    "features": []
 }
