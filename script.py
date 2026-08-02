@@ -2,18 +2,19 @@ import json
 import os
 import requests
 
-# 1. Configuration officielle APIDAE v002
-API_URL = "https://apidae-tourisme.com"
+# 1. Endpoint officiel APIDAE v002 pour les listes
+API_URL = "https://api.apidae-tourisme.com/api/v002/recherche/list-objets-touristiques"
 API_KEY = os.environ.get("APIDAE_KEY")
 PROJECT_ID = os.environ.get("APIDAE_PROJECT_ID")
 
+# 2. Vos 6 sélections d'hébergements (Remplacez les numéros par vos vrais ID Apidae)
 CATEGORIES = {
-    "hotels": {"id_selection": 111111, "features": []},
-    "campings": {"id_selection": 222222, "features": []},
-    "chambres_hotes": {"id_selection": 333333, "features": []},
-    "gites_etape": {"id_selection": 444444, "features": []},
-    "refuges": {"id_selection": 555555, "features": []},
-    "villages_vacances": {"id_selection": 666666, "features": []}
+    "hotels": {"id_selection": 188585, "features": []},
+    "campings": {"id_selection": 188587, "features": []},
+    "chambres_hotes": {"id_selection": 188589, "features": []},
+    "gites_etape": {"id_selection": 188586, "features": []},
+    "refuges": {"id_selection": 188593, "features": []},
+    "villages_vacances": {"id_selection": 188594, "features": []}
 }
 
 def clean_html(text):
@@ -21,7 +22,7 @@ def clean_html(text):
     return text.replace("<br>", "\n").replace("<br/>", "\n")
 
 def get_adresse(obj):
-    """Extraction exacte et sécurisée de l'adresse en Apidae V002."""
+    """Extraction exacte de l'adresse imbriquée en Apidae V002."""
     localisation = obj.get("localisation", {})
     adresse_obj = localisation.get("adresse", {})
     
@@ -47,20 +48,22 @@ def extract_contacts(obj):
     return tel, email, web
 
 def extract_photo(obj):
-    """Extraction exacte de l'URL de l'image en V002 via traductionFichiers."""
+    """Extraction chirurgicale de l'URL (Premier élément de traductionFichiers)."""
     illustrations = obj.get("illustrations", [])
     if isinstance(illustrations, list) and len(illustrations) > 0:
-        first_illus = illustrations[0] # On extrait le premier dictionnaire d'illustration
+        first_illus = illustrations[0] # Extraction de la première illustration
         
-        # En V002, traductionFichiers est une liste (tableau) de dictionnaires
+        # RÈGLE V002 STRICTE : traductionFichiers est une liste, on doit cibler l'index [0]
         trad_fichiers = first_illus.get("traductionFichiers", [])
         if isinstance(trad_fichiers, list) and len(trad_fichiers) > 0:
-            # On prend le premier fichier disponible de la liste
             return trad_fichiers[0].get("url", "")
             
-        # Sécurités si la fiche utilise une ancienne structure
+        # Sécurités de secours si format d'ancienne génération
         if "url" in first_illus:
             return first_illus.get("url", "")
+        traduc = first_illus.get("traductionMetadonnees", {})
+        if isinstance(traduc, dict):
+            return traduc.get("url", "")
     return ""
 
 def interroger_apidae(id_selection):
@@ -86,6 +89,7 @@ def main():
         return
 
     for name_key, info in CATEGORIES.items():
+        print(f"Extraction Apidae V002 -> {name_key}...")
         objets = interroger_apidae(info["id_selection"])
         
         for obj in objets:
