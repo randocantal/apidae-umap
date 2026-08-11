@@ -931,6 +931,25 @@
                 "site_web": "",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/168/28/41950376.jpg"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.235838,
+                    44.968831
+                ]
+            },
+            "properties": {
+                "nom": "Le Relais de Georges - Gîte d'étape",
+                "description": "Au Relais de Georges, profitez d'un accueil chaleureux et d'un restaurant avec une cuisine 100 % maison, préparée avec des produits locaux.",
+                "adresse": "15, Prat Long 15320 Chaliers",
+                "telephone": "04 71 60 24 02",
+                "email": "relaisdegeorges@gmail.com",
+                "site_web": "",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/93/42294647.jpg"
+            }
         }
     ]
 }
