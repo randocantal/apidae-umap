@@ -2660,6 +2660,25 @@
                 "site_web": "",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/183/125/41582007.jpg"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.870653,
+                    45.109614
+                ]
+            },
+            "properties": {
+                "nom": "Le Manoir de Murat",
+                "description": "",
+                "adresse": "12 avenue du Docteur Louis Mallet 15300 Murat",
+                "telephone": "06 16 52 17 93",
+                "email": "lemanoirdemurat@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
         }
     ]
 }
