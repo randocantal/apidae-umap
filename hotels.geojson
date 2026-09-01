@@ -101,18 +101,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.655208,
-                    45.284288
+                    2.655079,
+                    45.284492
                 ]
             },
             "properties": {
                 "nom": "The Originals Hôtel le Lutéa",
-                "description": "Hôtel climatisé avec possibilité de restauration pour la clientèle de hôtel. Vous nous trouverez dans le Parc Naturel des volcans d'Auvergne dans la petite ville de Riom-ès-Montagnes.",
+                "description": "Hôtel climatisé avec possibilité de restauration pour la clientèle de hôtel. Vous nous trouverez dans le Parc Naturel des Volcans d'Auvergne dans la petite ville de Riom-ès-Montagnes.",
                 "adresse": "Rue du Champ de Foire 15400 Riom-ès-Montagnes",
                 "telephone": "04 71 78 19 43",
                 "email": "hotel.lutea@gmail.com",
                 "site_web": "https://www.hotel-lutea.fr/fr",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/31/82/36000287.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/210/29/42474962.jpg"
             }
         },
         {
