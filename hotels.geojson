@@ -44,25 +44,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.500758,
-                    44.708274
-                ]
-            },
-            "properties": {
-                "nom": "Hôtel L'Auberge Fleurie",
-                "description": "L' Auberge Fleurie est une charmante étape aux confins du Lot et la Truyère.",
-                "adresse": ", 2 avenue d'Aurillac 15120 Montsalvy",
-                "telephone": "04 71 49 20 02",
-                "email": "info@auberge-fleurie.com",
-                "site_web": "http://www.auberge-fleurie.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/228/9102449.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.693085,
                     45.246611
                 ]
