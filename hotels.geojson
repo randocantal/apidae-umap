@@ -994,25 +994,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.171787,
-                    44.973481
-                ]
-            },
-            "properties": {
-                "nom": "Garabit Hôtel",
-                "description": "Cadre exceptionnel, à 5 min de l’A75 au pied du Viaduc de Garabit. Piscine. 20 chambres ont été rénovées. 2 Chambres PMR. \r\nGroupes : Accueil traditionnel par du personnel. \r\nIndividuels : Accueil automatisé avec code. Concept d'hôtel sans accueil physique.",
-                "adresse": "Route du Viaduc - GARABIT 15100 Anglards-de-Saint-Flour",
-                "telephone": "07 57 94 40 60",
-                "email": "info@fanihotels.com",
-                "site_web": "https://www.fanihotels.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/171/180/2143403.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     3.196077,
                     45.264164
                 ]
