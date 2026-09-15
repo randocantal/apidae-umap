@@ -1564,25 +1564,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.769318,
-                    45.33504
-                ]
-            },
-            "properties": {
-                "nom": "Hôtel Le Lac des Moines",
-                "description": "Hôtel-restaurant au bord d'un lac de 10 ha en l'entrée du bourg de Condat, entouré de forêts et verdure.",
-                "adresse": ", La Chèvre Blanche 15190 Condat",
-                "telephone": "04 71 78 65 96",
-                "email": "contact@lacdesmoines.fr",
-                "site_web": "http://www.lacdesmoines.fr",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/181/63/3817397.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     3.003134,
                     44.697868
                 ]
