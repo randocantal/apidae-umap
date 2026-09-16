@@ -405,25 +405,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.830317,
-                    45.304637
-                ]
-            },
-            "properties": {
-                "nom": "Gite d'étape communal de l'école de Marcenat",
-                "description": "Gite d'étape communal en gestion libre équipé de quatre chambres (de deux lits chacune), sanitaires, salle commune et coin cuisine.",
-                "adresse": "Groupe scolaire, 11 place des Granges 15190 Marcenat",
-                "telephone": "04 71 40 72 77",
-                "email": "marcenat.mairie@wanadoo.fr",
-                "site_web": "http://www.marcenat15.fr/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/107/74/12864107.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.668019,
                     45.021979
                 ]
