@@ -1621,25 +1621,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.22899,
-                    44.935703
-                ]
-            },
-            "properties": {
-                "nom": "Parc résidentiel du Domaine du Lac",
-                "description": "Situé au bord du lac de Saint-Étienne-Cantalès, le Parc résidentiel du Domaine du Lac vous propose des mobile homes et des chalets en location sur de grands emplacements (300 m²) avec un accès direct au lac.",
-                "adresse": ", 7 route de la Presqu'île 15150 Saint-Gérons",
-                "telephone": "04 71 62 27 98",
-                "email": "prldomainedulac@gmail.com",
-                "site_web": "http://www.prl-domainedulac.fr",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/77/26496452.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.526704,
                     45.098026
                 ]
