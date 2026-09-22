@@ -2552,25 +2552,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.873608,
-                    45.112593
-                ]
-            },
-            "properties": {
-                "nom": "Le Vol du Milan",
-                "description": "Chambre familiale avec salle de bain attenante dans notre maison avec une vue magnifique sur les monts du Cantal. Un salon avec des jeux vous est réservé ainsi que pour le petit déjeuner inclus. Cuisine à votre disposition si besoin.",
-                "adresse": "14 rue Marchadial 15300 Murat",
-                "telephone": "06 07 62 13 04",
-                "email": "levoldumilan@outlook.fr",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/202/63/32522186.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     3.009474,
                     45.124266
                 ]
