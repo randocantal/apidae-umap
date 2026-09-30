@@ -1792,18 +1792,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.397915,
-                    45.335291
+                    2.401515,
+                    45.336434
                 ]
             },
             "properties": {
                 "nom": "Chambre et Table d'Hôtes La Frênette",
-                "description": "",
+                "description": "Vous adorerez le confort moderne et intimiste de la chambre d'hôtes. Nous serons désireux de partager avec vous notre verte nature et le calme de la campagne.",
                 "adresse": "12 Bis Route du Lavoir, Le Fau 15240 Bassignac",
                 "telephone": "06 82 45 05 40",
-                "email": "",
+                "email": "les5cc@orange.fr",
                 "site_web": "",
-                "photo": ""
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/5/125/42827013.jpeg"
             }
         },
         {
