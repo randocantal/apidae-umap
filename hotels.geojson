@@ -1754,25 +1754,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.088077,
-                    45.031764
-                ]
-            },
-            "properties": {
-                "nom": "Hôtel Restaurant de l'Ancien Grand Séminaire",
-                "description": "Faites l'expérience unique d'un lieu de plus de 200 ans d'histoire. L'Hôtel Restaurant Ancien Grand Séminaire est un écrin de calme au coeur de la cité médiévale de Saint-Flour.",
-                "adresse": "7, Rue des Planchettes 15100 Saint-Flour",
-                "telephone": "04 71 60 10 08",
-                "email": "reception.anciengrandseminaire@gmail.com",
-                "site_web": "http://www.hotel-restaurant-ancien-grand-seminaire.fr",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/50/49/36516146.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.234303,
                     44.855226
                 ]
