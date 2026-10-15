@@ -310,25 +310,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.71171,
-                    45.052473
-                ]
-            },
-            "properties": {
-                "nom": "Le Brunet",
-                "description": "L'hôtel Le Brunet et un complexe alpin idéalement situé pour les sports d'hiver, la randonnée... Des chambres confortables aux larges balcons s'ouvrant sur les Monts du Cantal. Un parc agréable pour de vrais moments de repos.",
-                "adresse": "Le bourg 15800 Saint-Jacques-des-Blats",
-                "telephone": "04 71 47 05 86",
-                "email": "hotel.brunet@wanadoo.fr",
-                "site_web": "http://www.hotel-brunet.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/241/231/9168881.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.63478,
                     44.978625
                 ]
@@ -493,25 +474,6 @@
                 "email": "contact@hotel-escoundillou.com",
                 "site_web": "http://www.escoundillou.com",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/89/201/35047769.jpeg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.631837,
-                    44.974848
-                ]
-            },
-            "properties": {
-                "nom": "Le Saint Joseph",
-                "description": "Gilles et Jessica vous accueilleront dans cet hôtel familial (7 chambres), posé sur une parcelle de 850 m², avec une esplanade offrant une belle vue sur la vallée et les montagnes.",
-                "adresse": "4 avenue du Barrez 15800 Vic-sur-Cère",
-                "telephone": "04 71 47 51 92",
-                "email": "hotel.st.joseph15800@gmail.com",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/220/10/9177820.jpg"
             }
         },
         {
