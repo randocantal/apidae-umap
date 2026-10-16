@@ -481,44 +481,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.649508,
-                    44.958269
-                ]
-            },
-            "properties": {
-                "nom": "Chambres d'hôtes \"le Paradis Vert\"",
-                "description": "Chambres d'hôtes",
-                "adresse": ", Morèze 15800 Saint-Clément",
-                "telephone": "04 71 49 62 11",
-                "email": "",
-                "site_web": "",
-                "photo": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.650044,
-                    44.873374
-                ]
-            },
-            "properties": {
-                "nom": "Domaine de Courbelimagne",
-                "description": "A Raulhac, locations occasionnelles de Chambres d'Hôtes (selon les préceptes des \"Chambres d'Hôtes chez l'habitant\").\r\n3 chambres ou suites, avec petits déjeuners. Dîners possibles uniquement sur réservation, dans un cadre environnemental de charme.\r\n",
-                "adresse": "Lieu-dit Courbelimagne 15800 Raulhac",
-                "telephone": "04 71 49 58 25",
-                "email": "jean-louis.welsch@wanadoo.fr",
-                "site_web": "",
-                "photo": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.667376,
                     45.015461
                 ]
@@ -550,63 +512,6 @@
                 "email": "petiteescalepouget@orange.fr",
                 "site_web": "http://www.petiteescalepouget.fr",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/40/246/36369960.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.611979,
-                    44.909897
-                ]
-            },
-            "properties": {
-                "nom": "La Calsade",
-                "description": "Demeure entièrement rénovée, située au cœur du Carladès, sur le plateau de Badailhac. Tranquillité, vue panoramique. 2 chambres doubles, 1 chambre avec 1 lit double et 1 lit simple (salle d'eau et wc privatifs).",
-                "adresse": "15800 Badailhac",
-                "telephone": "04 71 47 40 54",
-                "email": "jean.morziere@orange.fr",
-                "site_web": "http://www.la-calsade.com/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/212/2282727.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.630593,
-                    44.97681
-                ]
-            },
-            "properties": {
-                "nom": "Kinopanorama",
-                "description": "Chambre d'hôtes à Vic sur Cère.",
-                "adresse": "1 Rue de la Gare 15800 Vic-sur-Cère",
-                "telephone": "06 83 49 78 86",
-                "email": "bonnet.jane@orange.fr",
-                "site_web": "",
-                "photo": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.621296,
-                    44.977777
-                ]
-            },
-            "properties": {
-                "nom": "Le Terrondou",
-                "description": "Cette élégante demeure, bâtie dans les années 30, dans le style néoclassique régional, est située à 300m du centre médiéval de Vic sur Cère, à 15min d'Aurillac et à 15 min de la station du Lioran, au coeur du Parc des Volcans.",
-                "adresse": "2 avenue Emile Duclaux 15800 Vic-sur-Cère",
-                "telephone": "06 88 94 32 01",
-                "email": "terrondou.rosset@free.fr",
-                "site_web": "http://www.terrondou.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/75/117/12744011.jpg"
             }
         },
         {
@@ -2676,6 +2581,25 @@
                 "adresse": "12 avenue du Docteur Louis Mallet 15300 Murat",
                 "telephone": "06 16 52 17 93",
                 "email": "lemanoirdemurat@gmail.com",
+                "site_web": "",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.436676,
+                    45.228993
+                ]
+            },
+            "properties": {
+                "nom": "Chambres d'hôte Masquin - Hauboldt",
+                "description": "Nichée au creux de la vallée du Mars, une authentique maison de pierres et de bois.",
+                "adresse": "1 lieu Dit Le Pre Soubrau 15380 Anglards-de-Salers",
+                "telephone": "06 10 39 22 23",
+                "email": "jacquelinehauboldt@hotmail.fr",
                 "site_web": "",
                 "photo": ""
             }

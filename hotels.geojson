@@ -386,25 +386,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.581497,
-                    44.951094
-                ]
-            },
-            "properties": {
-                "nom": "Le Val du Cantal",
-                "description": "VillageFani innove et développe un nouveau concept : Hébergement et Restauration 24h/24",
-                "adresse": "9 allée des Monts d'Auvergne 15800 Polminhac",
-                "telephone": "04 71 23 02 01",
-                "email": "valducantal@villagefani.com",
-                "site_web": "http://www.villagefani.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/216/21158033.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.626635,
                     44.979149
                 ]
@@ -493,25 +474,6 @@
                 "email": "info@hotel-des-chazes.com",
                 "site_web": "http://www.hotel-des-chazes.com",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/68/100/35218500.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.671566,
-                    45.015848
-                ]
-            },
-            "properties": {
-                "nom": "Le Castel du Cantal",
-                "description": "Idéalement situé sur la N122, à 25 km d'Aurillac, la capitale du Cantal et 12 km du Lioran, la station de ski  du plus grand volcan d'Europe , le Castel du Cantal, entièrement rénové en 2024,  vous accueille  24h/24  dans des chambres au confort moderne.",
-                "adresse": "Grand'Rue 15800 Thiézac",
-                "telephone": "471230201",
-                "email": "info@fanihotels.com",
-                "site_web": "http://www.fanihotels.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/183/36419482.jpeg"
             }
         },
         {
@@ -1804,25 +1766,6 @@
                 "email": "contact.aubergeducezallier@gmail.com",
                 "site_web": "https://aubergecezallier.com/",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/209/30593407.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.644069,
-                    44.968254
-                ]
-            },
-            "properties": {
-                "nom": "Maison Rouchet",
-                "description": "",
-                "adresse": "curebourse 15800 Saint-Clément",
-                "telephone": "",
-                "email": "maisonrouchet@hotmail.com",
-                "site_web": "",
-                "photo": ""
             }
         },
         {
