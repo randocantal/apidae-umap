@@ -2603,6 +2603,44 @@
                 "site_web": "",
                 "photo": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.796374,
+                    45.153318
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Cheyrelle - Chambre d'hôtes Perle",
+                "description": "",
+                "adresse": "La Cheyrelle 15300 Dienne",
+                "telephone": "06 83 00 43 34",
+                "email": "info@chateau-cheyrelle.com",
+                "site_web": "http://chateau-cheyrelle.com/",
+                "photo": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.796374,
+                    45.153318
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Cheyrelle - Chambre d'hôtes Serpentine",
+                "description": "",
+                "adresse": "La Cheyrelle 15300 Dienne",
+                "telephone": "06 83 00 43 34",
+                "email": "info@chateau-cheyrelle.com",
+                "site_web": "http://chateau-cheyrelle.com/",
+                "photo": ""
+            }
         }
     ]
 }
