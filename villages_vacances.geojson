@@ -158,25 +158,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.736476,
-                    45.081285
-                ]
-            },
-            "properties": {
-                "nom": "VVF Le Grand Lioran",
-                "description": "Un village \"pleine forme\" au pied du plus étendu des stratovolcans d'Europe pour vivre pleinement la montagne en alliant le tonus et le bien-être à des activités de pleine nature. Un cadre idéal pour des vacances saines, actives et vivifiantes.",
-                "adresse": "VVF \"Haut du Roy\", 2, route des Chamois 15580 Saint-Jacques-des-Blats",
-                "telephone": "04 71 49 50 60",
-                "email": "accueil.legrandlioran@vvfvillages.fr",
-                "site_web": "https://www.vvf.fr/villages-vacances-hiver/vvf-villages-grand-lioran.html?startDate=&endDate=&adult=2&children=0&baby=0&animal=0",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/182/229/22996406.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.993731,
                     44.842147
                 ]
