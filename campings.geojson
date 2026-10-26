@@ -354,7 +354,7 @@
             },
             "properties": {
                 "nom": "Camping la Pierre Plate",
-                "description": "Camping 30 emplacements sur terrain ombragé à proximité du bourg.",
+                "description": "Camping de 30 emplacements sur terrain ombragé à proximité du bourg",
                 "adresse": "Le Bourg 15140 Fontanges",
                 "telephone": "04 71 40 71 49",
                 "email": "mairie.fontanges2@wanadoo.fr",
@@ -405,14 +405,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.593406,
-                    45.100383
+                    2.59596,
+                    45.100699
                 ]
             },
             "properties": {
                 "nom": "Domaine du Lissart de Miège",
                 "description": "Situé à 939 mètres d'altitude sur la commune du Fau nichée au coeur même d'une des plus belles vallées du Cantal, le Camping Lissart de Miège vous accueille dans le Parc Régional des Volcans d'Auvergne, au coeur du Grand Site du Puy Mary.",
-                "adresse": "La Bastide 15140 Le Fau",
+                "adresse": "Lissart de Miege, Camping Lissart de Miège 15140 Le Fau",
                 "telephone": "06 78 34 38 55",
                 "email": "evelyne.riol@orange.fr",
                 "site_web": "",
