@@ -378,7 +378,7 @@
                 "telephone": "04 71 69 51 28",
                 "email": "mairie.lefalgoux@wanadoo.fr",
                 "site_web": "https://www.lefalgoux.fr/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/76/80/41635916.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/4/4/43451396.jpg"
             }
         },
         {
@@ -487,12 +487,12 @@
             },
             "properties": {
                 "nom": "Camping L'Air du Temps",
-                "description": "Situé au cœur du Parc naturel régional des Volcans d’Auvergne ce camping de charme avec vue panoramique sur le lac de Bort-les-Orgues et les Monts du Cantal, est calme et sans animations. Niché en pleine nature, il se distingue par son cadre exceptionnel.",
-                "adresse": "1, La Barrière 15270 Beaulieu",
+                "description": "Situé au cœur du Parc naturel régional des Volcans d’Auvergne ce camping de charme avec vue panoramique sur le lac de Bort-les-Orgues et les monts du Cantal, est calme et sans animations. Niché en pleine nature, il se distingue par son cadre exceptionnel.",
+                "adresse": "1 La Barrière 15270 Beaulieu",
                 "telephone": "06 08 08 19 22",
                 "email": "campinglairdutemps@wanadoo.fr",
                 "site_web": "http://camping-ferme-cantal.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/228/75/30886884.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/251/110/43478779.jpg"
             }
         },
         {
@@ -519,18 +519,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.583574,
-                    45.367274
+                    2.58263,
+                    45.366249
                 ]
             },
             "properties": {
                 "nom": "Camping de l'Écureuil",
-                "description": "Au cœur de la nature sauvage et des prairies verdoyantes du haut cantal, venez découvrir notre camping « nature » et son jardin animalier. Vous y trouverez le calme, la qualité d’accueil et la convivialité.",
+                "description": "Au cœur de la nature sauvage et des prairies verdoyantes du haut Cantal, venez découvrir notre camping « nature » et son jardin animalier. Vous y trouverez le calme, la qualité d’accueil et la convivialité.",
                 "adresse": "L'Écureuil 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "04 71 78 71 85",
                 "email": "gbfabienne@free.fr",
                 "site_web": "https://www.campinglecureuil.com/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/74/30886609.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/231/106/43477735.jpg"
             }
         },
         {
@@ -538,18 +538,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.603435,
-                    45.394133
+                    2.604883,
+                    45.393372
                 ]
             },
             "properties": {
                 "nom": "Camping de l'Étang",
-                "description": "Camping  au cœur de l'Artense dans un site paradisiaque, calme en pleine nature. Le camping se situe sur un terrain de 5 hectares.",
+                "description": "Camping au cœur de l'Artense dans un site paradisiaque, calme en pleine nature. Le camping se situe sur un terrain de 5 hectares.",
                 "adresse": "1 Mérigot 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "06 82 91 65 62",
                 "email": "merigot15@outlook.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/26/206/38391322.png"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/106/43477721.png"
             }
         },
         {
@@ -564,7 +564,7 @@
             "properties": {
                 "nom": "Camping municipal de La Tarentaine",
                 "description": "Dans le Parc naturel régional des Volcans d’Auvergne, le camping de la Tarentaine est un havre de paix où de nombreuses activités sont proposées. Endroit idéal pour se reposer mais aussi découvrir, manger, marcher, se baigner, pédaler, flâner, rencontrer…",
-                "adresse": "6, rue du Pont de Lourseyre 15270 Champs-sur-Tarentaine-Marchal",
+                "adresse": "6 rue du Pont de Lourseyre 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "04 71 78 71 25",
                 "email": "contact@champs-marchal.org",
                 "site_web": "https://www.champs-marchal.org/office-de-tourisme_fr.html",
@@ -601,7 +601,7 @@
             },
             "properties": {
                 "nom": "Camping municipal de Bellevue",
-                "description": "Emplacements délimités sur un terrain plat et ombragé, à proximité d'équipements de loisirs : piscine, tennis , terrain de pétanque, jeux pour enfants.",
+                "description": "Emplacements délimités sur un terrain plat et ombragé, à proximité d'équipements de loisirs : piscine, tennis, terrain de pétanque, jeux pour enfants.",
                 "adresse": "Complexe sportif de Bellevue 15240 Saignes",
                 "telephone": "04 71 40 62 80",
                 "email": "saignes.mairie@wanadoo.fr",
@@ -620,7 +620,7 @@
             },
             "properties": {
                 "nom": "Camping municipal Les Pagues",
-                "description": "Découvrir le charme de la campagne et la beauté des gorges de la Dordogne. Passionnés de nature, des emplacements traditionnels ou des locations de mobil-homes vous y attendent.",
+                "description": "Venez découvrir le charme de la campagne et la beauté des gorges de la Dordogne. Passionnés de nature, des emplacements traditionnels ou des locations de mobil-homes vous y attendent.",
                 "adresse": "17 rue du mentier, Les Pagues Nord 15350 Saint-Pierre",
                 "telephone": "04 71 69 62 14",
                 "email": "sejourstpierre@orange.fr",
@@ -639,12 +639,12 @@
             },
             "properties": {
                 "nom": "Camping municipal Les Bruyères",
-                "description": "Situé au cœur d'un site naturel de 5ha, à proximité des lacs de Lastioulles et de La Crégut. Emplacements non délimités avec ou sans ombrage, branchements électriques, lave et sèche linge collectifs, jeux pour enfants, ping-pong, calme et détente assurée.",
+                "description": "Situé au cœur d'un site naturel de 5ha, à proximité des lacs de Lastioulles et de La Crégut. Emplacements non délimités avec ou sans ombrage, branchements électriques, lave et sèche-linge collectifs, jeux pour enfants, ping-pong, calme et détente assurée.",
                 "adresse": "1 Pacher Daval 15270 Trémouille",
                 "telephone": "04 71 78 77 44",
                 "email": "tourisme@tremouille.fr",
                 "site_web": "https://www.tremouille.fr/camping-tremouille-15-cantal-auvergne-rhone-alpes_fr.html",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/156/75/30886812.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/125/115/43479933.jpg"
             }
         },
         {
@@ -658,12 +658,12 @@
             },
             "properties": {
                 "nom": "Camping Ferme de séjour",
-                "description": "Venez découvrir notre camping familial sur un terrain aménagé et délimité. Des vacances en pleine nature, au vert, en profitant de la piscine, jeux pour les enfants.",
+                "description": "Venez découvrir notre camping familial sur un terrain aménagé et délimité. Des vacances en pleine nature, au vert, en profitant de la piscine et des jeux pour les enfants.",
                 "adresse": "4  Verchalles soutro 15240 Vebret",
                 "telephone": "04 71 40 21 58",
                 "email": "guy-galvaing@wanadoo.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/242/68/30622962.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/133/108/43478149.jpg"
             }
         },
         {
@@ -1450,13 +1450,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.387528,
-                    45.297515
+                    2.388032,
+                    45.297704
                 ]
             },
             "properties": {
                 "nom": "Camping des 3 rivières",
-                "description": "Une aire naturelle sans emplacement délimité. Un havre de paix pour tous ceux qui recherche le calme, le dépaysement et le repos. Un chalet commun pour les sanitaires et des bornes électriques sont à disposition ainsi qu'un mobil-home pour 6.",
+                "description": "Une aire naturelle sans emplacement délimité. Un havre de paix pour tous ceux qui recherche le calme, le dépaysement et le repos. Un chalet commun pour les sanitaires et des bornes électriques sont à disposition ainsi qu'un mobil-home pour 6 personnes.",
                 "adresse": "Vendes 15240 Bassignac",
                 "telephone": "06 40 73 31 35",
                 "email": "gilles.eisenschreiber@orange.fr",

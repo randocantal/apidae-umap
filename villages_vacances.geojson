@@ -108,7 +108,7 @@
             "properties": {
                 "nom": "VVF Cantal Salers Vendes",
                 "description": "A la frontière de l’Auvergne et du Limousin, le VVF Cantal Salers Vendes est un écrin de verdure avec une vue exceptionnelle sur les monts du Cantal.",
-                "adresse": "1 cité de la mine, Vendes 15240 Bassignac",
+                "adresse": "VVF de Vendes, 1 cité de la mine 15240 Bassignac",
                 "telephone": "04 71 69 71 81",
                 "email": "accueil.vendes-bassignac@vvfvillages.fr",
                 "site_web": "https://www.vvf.fr/destination/ete/vendes",
@@ -125,9 +125,9 @@
                 ]
             },
             "properties": {
-                "nom": "VVF Cantal Champs-sur-Tarentaine",
+                "nom": "\"VVF Cantal Champs-sur-Tarentaine\"",
                 "description": "A la frontière entre le Puy-de-Dôme, la Corrèze et le Cantal, le VVF Cantal Champs-sur-Tarentaine est situé à proximité de Bort-les-Orgues et de ses fameuses orgues basaltiques.",
-                "adresse": "Marchal Le Suc de Triviaux 15270 Champs-sur-Tarentaine-Marchal",
+                "adresse": "VVF de Champs-sur-Tarentaine, Marchal Le Suc de Triviaux 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "04 71 78 78 22",
                 "email": "accueil.champssurtarentaine@vvfvillages.fr",
                 "site_web": "https://www.vvf.fr/destination/ete/champs-sur-tarentaire",

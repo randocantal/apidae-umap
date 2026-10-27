@@ -2571,6 +2571,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.427557,
+                    45.118529
+                ]
+            },
+            "properties": {
+                "nom": "La Montagne de jeux",
+                "description": "La Montagne de Jeux, notre maison d’hôtes ludique près de Salers : posez vos valises et jouez ! Nous vous accueillons en chambres d'hôtes ou en immersion complète autour du jeu de société. Notre ludothèque compte des centaines de jeux pour tous âges.",
+                "adresse": "9 Barri Negre 15140 Saint-Martin-Valmeroux",
+                "telephone": "06 32 09 09 27",
+                "email": "contact@lamontagnedejeux.com",
+                "site_web": "https://lamontagnedejeux.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/15/6/43451919.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.870653,
                     45.109614
                 ]
