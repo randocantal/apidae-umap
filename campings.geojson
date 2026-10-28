@@ -54,7 +54,7 @@
                 "adresse": ", Le Puech 15340 Calvinet",
                 "telephone": "04 71 49 94 32",
                 "email": "mairie@puycapel.fr",
-                "site_web": "https://puycapel.fr/",
+                "site_web": "http://www.puycapel.fr",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/217/143/1806297.jpg"
             }
         },
@@ -506,11 +506,11 @@
             },
             "properties": {
                 "nom": "Les Chalets du camping de Béringer",
-                "description": "Dans le Nord Cantal, situés à 1 km du bourg, 3 chalets d'une capacité de 5 personnes, entièrement équipés vous attendent pour un séjour de détente, de stages sportifs, de découverte, pour des vacances, réunions familiales ou entre amis.",
+                "description": "Dans le Nord Cantal, situés à 1 km du bourg, 3 chalets d'une capacité de 5 personnes, entièrement équipés vous attendent pour un séjour de détente, de stages sportifs, de découverte, pour des vacances, des réunions familiales ou entre amis.",
                 "adresse": "Montruc 15350 Champagnac",
                 "telephone": "04 71 69 61 55",
                 "email": "contact@champagnac.fr",
-                "site_web": "https://champagnac.fr/aire-camping-car-park/",
+                "site_web": "http://www.champagnac.fr",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/178/227/30598066.jpg"
             }
         },
