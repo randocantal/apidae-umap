@@ -2660,6 +2660,25 @@
                 "site_web": "http://chateau-cheyrelle.com/",
                 "photo": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.420004,
+                    44.644306
+                ]
+            },
+            "properties": {
+                "nom": "Les Garçons Vieillevie - Chambres d'hôtes",
+                "description": "Vos hôtes Brian et Erik, vous accueillent dans leurs chambres d'hôtes et leur restaurant. Nos chambres sont aménagées tout confort.  Dans notre restaurant, vous pouvez profiter de plats locaux préparés avec amour et attention.",
+                "adresse": "70 route des Gabariers 15120 Vieillevie",
+                "telephone": "06 86 66 78 15",
+                "email": "info@lesgarconsvieillevie.com",
+                "site_web": "https://lesgarconsvieillevie.fr/fr",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/79/198/43501135.jpg"
+            }
         }
     ]
 }
