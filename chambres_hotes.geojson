@@ -207,7 +207,7 @@
                 "telephone": "04 71 47 67 37",
                 "email": "paul.fererol15@orange.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/208/162/41394896.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/244/189/43367924.jpg"
             }
         },
         {
@@ -416,7 +416,7 @@
                 "telephone": "06 40 25 34 59",
                 "email": "artense.hotes@gmail.com",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/219/43441050.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/164/219/43441060.jpg"
             }
         },
         {
@@ -454,7 +454,7 @@
                 "telephone": "04 71 40 23 57",
                 "email": "annie.jouve0844@orange.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/80/220/43441232.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/198/232/43509958.jpg"
             }
         },
         {
@@ -1119,7 +1119,7 @@
                 "telephone": "04 71 40 21 58",
                 "email": "guy-galvaing@wanadoo.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/179/11/30411699.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/113/232/43509873.jpg"
             }
         },
         {
@@ -2088,7 +2088,7 @@
                 "telephone": "07 81 89 41 13",
                 "email": "contact@logisdulacmadic.com",
                 "site_web": "https://logisdulacmadic.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/166/226/43442854.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/195/226/43442883.jpg"
             }
         },
         {
@@ -2354,25 +2354,6 @@
                 "telephone": "04 71 69 00 20",
                 "email": "chateaudelavigne@gmail.com",
                 "site_web": "http://www.chateaudelavigne.fr/#/",
-                "photo": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.310982,
-                    45.154826
-                ]
-            },
-            "properties": {
-                "nom": "Chambre d'hôtes TESTE",
-                "description": "Chambre d'hôtes avec une capacité de 2personnes à ALLY",
-                "adresse": ", La Butte 15700 Ally",
-                "telephone": "06 71 69 01 22",
-                "email": "",
-                "site_web": "",
                 "photo": ""
             }
         },
