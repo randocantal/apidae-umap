@@ -397,7 +397,7 @@
                 "telephone": "06 86 89 24 19",
                 "email": "croquelunes@free.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/69/225/43442501.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/60/43596865.jpg"
             }
         },
         {
@@ -435,7 +435,7 @@
                 "telephone": "06 18 08 60 27",
                 "email": "chezmarraine@laposte.net",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/196/224/43442372.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/59/43596671.jpg"
             }
         },
         {
@@ -473,7 +473,7 @@
                 "telephone": "06 49 38 46 36",
                 "email": "lerelaisdescapucines@gmail.com",
                 "site_web": "http://lerelaisdescapucines-cantal.fr",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/250/223/43442170.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/83/59/43596627.jpg"
             }
         },
         {
@@ -1708,7 +1708,7 @@
                 "telephone": "06 82 45 05 40",
                 "email": "les5cc@orange.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/49/219/43440945.jpeg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/81/63/43597649.jpg"
             }
         },
         {
@@ -1879,7 +1879,7 @@
                 "telephone": "06 71 05 18 74",
                 "email": "sandra.goetgheluck@orange.fr",
                 "site_web": "https://www.fermedemontassou.com",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/12/30346367.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/53/60/43596853.jpg"
             }
         },
         {
@@ -2640,6 +2640,25 @@
                 "email": "info@chateau-cheyrelle.com",
                 "site_web": "http://chateau-cheyrelle.com/",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/106/158/43490922.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.409524,
+                    44.783097
+                ]
+            },
+            "properties": {
+                "nom": "Château de la Rodde - Chambres d'hôtes",
+                "description": "Niché au cœur de la Châtaigneraie Cantalienne, le château de la Rodde, datant du XIVème siècle, vous accueille dans un environnement paisible propice à la détente.",
+                "adresse": "La Rodde 15120 Lacapelle-del-Fraisse",
+                "telephone": "04 71 48 64 20",
+                "email": "",
+                "site_web": "https://www.gites-de-france.com/fr/auvergne-rhone-alpes/cantal/9002-15g9002#owner",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/47/53/43595055.jpg"
             }
         },
         {
