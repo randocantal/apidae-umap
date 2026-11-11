@@ -671,25 +671,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.435007,
-                    44.891848
-                ]
-            },
-            "properties": {
-                "nom": "\"Chez Mounette\"",
-                "description": "Chambre d'hôtes située à proximité immédiate d'Aurillac.",
-                "adresse": "20 Chemin du Bousquet 15130 Arpajon-sur-Cère",
-                "telephone": "04 71 63 73 10",
-                "email": "cantuel.monique@gmail.com",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/149/221/3530133.jpg"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.513938,
                     44.995077
                 ]
@@ -1480,7 +1461,7 @@
                 "telephone": "04 71 40 57 88",
                 "email": "letableaunaturel@gmail.com",
                 "site_web": "https://www.letableaunaturel.fr/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/227/36/41493731.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/248/121/43612664.jpg"
             }
         },
         {
@@ -1556,7 +1537,7 @@
                 "telephone": "04 71 69 12 03",
                 "email": "chezdany15@orange.fr",
                 "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/123/172/35892347.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/122/39/43657082.jpg"
             }
         },
         {
@@ -2590,18 +2571,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.436676,
-                    45.228993
+                    2.43262,
+                    45.231622
                 ]
             },
             "properties": {
                 "nom": "Chambres d'hôte Masquin - Hauboldt",
                 "description": "Nichée au creux de la vallée du Mars, une authentique maison de pierres et de bois.",
-                "adresse": "1 lieu Dit Le Pre Soubrau 15380 Anglards-de-Salers",
+                "adresse": "1 Lieu Dit Le Pre Soubrau 15380 Anglards-de-Salers",
                 "telephone": "06 10 39 22 23",
                 "email": "jacquelinehauboldt@hotmail.fr",
                 "site_web": "",
-                "photo": ""
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/193/22/43652801.jpeg"
             }
         },
         {
