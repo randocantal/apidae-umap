@@ -316,12 +316,12 @@
             },
             "properties": {
                 "nom": "La Maison de Chablat",
-                "description": "La Maison de Chablat se trouve dans un lieu calme, entouré de nature. Dans le jardin, au bord de la piscine, vous pouvez admirer les Monts du Cantal à l'horizon. La maison comprend 4 chambres.",
+                "description": "La Maison de Chablat se trouve dans un lieu calme, entouré de nature. Dans le jardin, au bord de la piscine, vous pouvez admirer les Monts du Cantal à l'horizon. Nos 4 chambres ont été décorées dans le thème d'un élément de la nature.",
                 "adresse": "1216, route du gouffre de la monnaie, Chablat 15140 Saint-Martin-Cantalès",
                 "telephone": "04 71 44 60 50",
                 "email": "maisondechablat@orange.fr",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/86/23/2103126.jpg"
+                "site_web": "https://lamaisondechablat.jimdofree.com/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/209/139/43682769.jpg"
             }
         },
         {
