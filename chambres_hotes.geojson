@@ -111,8 +111,8 @@
                 "adresse": "323 impasse Marie Galvain, Rastoul 15400 Saint-Hippolyte",
                 "telephone": "06 23 50 01 63",
                 "email": "elisariane@orange.fr",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/37/216/41605157.jpg"
+                "site_web": "https://www.accueil-paysan.com/fr/structure/1186/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/145/237/43707793.jpg"
             }
         },
         {
@@ -396,7 +396,7 @@
                 "adresse": "6 chemin du Charlissou, Hameau de Sarran 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "06 86 89 24 19",
                 "email": "croquelunes@free.fr",
-                "site_web": "",
+                "site_web": "https://croquelunescantal.jimdoweb.com/",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/65/60/43596865.jpg"
             }
         },
@@ -906,7 +906,7 @@
             "properties": {
                 "nom": "ARTIS Louis et Elise - \"Les Cascades\" - Chambres et table d'hôte",
                 "description": "Dans la magnifique vallée de Brezons au pied du Plomb du Cantal dans un confort et un calme parfaits, 5 chambres d'hôtes ont été aménagées dans une ancienne auberge.",
-                "adresse": "Lustrande, 10 route des estives 15230 Brezons",
+                "adresse": "Lustrande 15230 Brezons",
                 "telephone": "04 71 73 41 51",
                 "email": "loulou.artis@orange.fr",
                 "site_web": "",
