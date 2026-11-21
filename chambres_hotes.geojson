@@ -468,7 +468,7 @@
             },
             "properties": {
                 "nom": "Chambres d'hôtes Le Relais des Capucines",
-                "description": "Nos chambres sont situées dans une demeure de la fin du XIXème siècle agrémentée d'un parc paysagé d'un hectare. Chaque chambre est équipée d'une salle d'eau et de WC privatifs.",
+                "description": "Nos chambres sont situées dans une demeure de la fin du XIXème siècle agrémentée d'un parc paysager d'un hectare. Chaque chambre est équipée d'une salle d'eau et de WC privatifs.",
                 "adresse": "78 avenue de la Libération, Largnac 15210 Ydes",
                 "telephone": "06 49 38 46 36",
                 "email": "lerelaisdescapucines@gmail.com",
@@ -2576,7 +2576,7 @@
                 ]
             },
             "properties": {
-                "nom": "Chambres d'hôte Masquin - Hauboldt",
+                "nom": "Chambres d'hôte Bagnac",
                 "description": "Nichée au creux de la vallée du Mars, une authentique maison de pierres et de bois.",
                 "adresse": "1 Lieu Dit Le Pre Soubrau 15380 Anglards-de-Salers",
                 "telephone": "06 10 39 22 23",

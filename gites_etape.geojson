@@ -329,6 +329,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.51997,
+                    45.339262
+                ]
+            },
+            "properties": {
+                "nom": "Gîtes d'étape communaux",
+                "description": "Complexe touristique communal composé de 3 gîtes d'étapes situés dans le Bourg de Vebret. Il est composé de 2 gîtes de 5 lits et d'1 gîte de 3 lits avec eau chaude et douche.",
+                "adresse": "Place de la Forge 15240 Vebret",
+                "telephone": "04 71 40 20 86",
+                "email": "mairie.vebret@orange.fr",
+                "site_web": "https://vebret-mairie.jimdoweb.com/tourisme/complexe-municipal/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/127/207/16699263.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.579372,
                     45.070364
                 ]
