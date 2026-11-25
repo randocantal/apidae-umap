@@ -481,6 +481,25 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    2.671566,
+                    45.015848
+                ]
+            },
+            "properties": {
+                "nom": "Le Castel du Cantal",
+                "description": "Idéalement situé sur la N122, à 25 km d'Aurillac, la capitale du Cantal et 12 km du Lioran, la station de ski  du plus grand volcan d'Europe , le Castel du Cantal, entièrement rénové en 2024,  vous accueille  24h/24  dans des chambres au confort moderne.",
+                "adresse": "Grand'Rue 15800 Thiézac",
+                "telephone": "07 57 94 40 60",
+                "email": "christine.boyer@villagefani.com",
+                "site_web": "http://www.fanihotels.com",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/154/183/36419482.jpeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     2.655347,
                     44.899394
                 ]
@@ -1727,7 +1746,7 @@
                 "telephone": "04 71 47 05 75",
                 "email": "contact@laboriedhelipse.com",
                 "site_web": "https://laboriedhelipse.com/fr/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/232/103/43673576.png"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/117/171/43821941.png"
             }
         },
         {

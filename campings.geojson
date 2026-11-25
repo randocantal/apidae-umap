@@ -557,8 +557,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.548934,
-                    45.390793
+                    2.550103,
+                    45.391335
                 ]
             },
             "properties": {
@@ -567,7 +567,7 @@
                 "adresse": "6 rue du Pont de Lourseyre 15270 Champs-sur-Tarentaine-Marchal",
                 "telephone": "04 71 78 71 25",
                 "email": "contact@champs-marchal.org",
-                "site_web": "https://www.champs-marchal.org/office-de-tourisme_fr.html",
+                "site_web": "https://www.champs-marchal.org/",
                 "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/119/66/30622327.jpg"
             }
         },
@@ -606,7 +606,7 @@
                 "telephone": "04 71 40 62 80",
                 "email": "saignes.mairie@wanadoo.fr",
                 "site_web": "https://saignes15.fr/tourisme-et-loisirs/location-vacances-etou-gites-ruraux/",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/238/205/38391278.jpg"
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/87/162/43819607.jpg"
             }
         },
         {
