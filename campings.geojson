@@ -297,12 +297,12 @@
             },
             "properties": {
                 "nom": "Camping OnlyCamp Le Pioulat",
-                "description": "Charmant camping au bord du plan d'eau de Trizac",
+                "description": "Charmant camping au bord du plan d'eau de Trizac !",
                 "adresse": "15400 Trizac",
                 "telephone": "07 67 24 28 24",
                 "email": "campinglepioulat@onlycamp.fr",
-                "site_web": "",
-                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/71/246/23131719.jpeg"
+                "site_web": "https://www.camping-trizac.fr/",
+                "photo": "https://static.apidae-tourisme.com/filestore/objets-touristiques/images/162/19/43848610.jpeg"
             }
         },
         {
